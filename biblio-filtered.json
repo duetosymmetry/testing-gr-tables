@@ -237,6 +237,39 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Damour:1993hw",
+  "Fields": {
+   "author": "Damour, T. and Esposito-Far`ese, G.",
+   "title": "Nonperturbative strong field effects in tensor - scalar theories of gravitation",
+   "journal": "Phys. Rev. Lett.",
+   "volume": "70",
+   "pages": "2220-2223",
+   "doi": "10.1103/PhysRevLett.70.2220",
+   "year": "1993"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Damour:1996ke",
+  "Fields": {
+   "doi": "10.1103/PhysRevD.54.1474",
+   "primaryclass": "gr-qc",
+   "author": "Damour, Thibault and Esposito-Farese, Gilles",
+   "journal": "Phys. Rev.",
+   "title": "Tensor - scalar gravity and binary pulsar experiments",
+   "pages": "1474-1491",
+   "volume": "D54",
+   "reportnumber": "IHES-P-96-13, IASSNS-HEP-96-14, BRX-TH-391,CPT-95-PE-3279",
+   "eprint": "gr-qc/9602056",
+   "slaccitation": "%%CITATION = GR-QC/9602056;%%",
+   "year": "1996",
+   "archiveprefix": "arXiv"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Detweiler:1980uk",
   "Fields": {
    "author": "Detweiler, S.~L.",
@@ -392,6 +425,37 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Salmona:1967zz",
+  "Fields": {
+   "author": "Salmona, A.",
+   "title": "Effect of Gravitational Scalar Field on High-Density Star Structure",
+   "journal": "Phys. Rev.",
+   "volume": "154",
+   "pages": "1218-1223",
+   "doi": "10.1103/PhysRev.154.1218",
+   "year": "1967"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "1974GReGr...5..663H",
+  "Fields": {
+   "author": "Hillebrandt, W. and Heintzmann, H.",
+   "title": "Neutron stars and incompressible fluid spheres in the Jordan-Brans-Dicke theory of gravitation.",
+   "journal": "Gen. Relativ. Gravit.",
+   "year": "1974",
+   "month": "December",
+   "volume": "5",
+   "pages": "663-672",
+   "doi": "10.1007/BF00761924",
+   "adsurl": "http://adsabs.harvard.edu/abs/1974GReGr...5..663H",
+   "adsnote": "Provided by the SAO/NASA Astrophysics Data System"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Yagi:2012gp",
   "Fields": {
    "author": "Yagi, Kent",
@@ -405,6 +469,40 @@
    "archivePrefix": "arXiv",
    "primaryClass": "gr-qc",
    "SLACcitation": "%%CITATION = ARXIV:1204.4524;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Salgado:1998sg",
+  "Fields": {
+   "author": "Salgado, Marcelo and Sudarsky, Daniel and Nucamendi, Ulises",
+   "title": "On spontaneous scalarization",
+   "journal": "Phys. Rev.",
+   "volume": "D58",
+   "pages": "124003",
+   "doi": "10.1103/PhysRevD.58.124003",
+   "year": "1998",
+   "eprint": "gr-qc/9806070",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Tsuchida:1998jw",
+  "Fields": {
+   "author": "Tsuchida, Tooru and Kawamura, Go and Watanabe, Kazuya",
+   "title": "A Maximum mass-to-size ratio in scalar tensor theories of gravity",
+   "journal": "Prog. Theor. Phys.",
+   "volume": "100",
+   "pages": "291-313",
+   "doi": "10.1143/PTP.100.291",
+   "year": "1998",
+   "eprint": "gr-qc/9802049",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
   }
  },
  {
