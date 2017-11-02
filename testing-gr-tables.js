@@ -27,10 +27,10 @@ $(function() {
 
   MyTextBibField.prototype = new jsGrid.TextField({
 
-    // css: "date-field",            // redefine general property 'css'
-    align: "center",              // redefine general property 'align'
+    css: "ref-cell",            // redefine general property 'css'
+    align: "center",            // redefine general property 'align'
 
-    // myCustomProperty: "foo",      // custom property
+    // customProp: "",                 // custom property
 
     sorter: function(entry1, entry2) {
       if (entry1.val < entry2.val)
@@ -40,20 +40,28 @@ $(function() {
       return 0;
     },
 
-    itemTemplate: function(entry) {
-      // TODO: Make this a DOM entry instead, so I can attach a click
-      // handler to it. Set the class so it gets highlighted or not
-      // depending on # of refs.
-      // It should become something like:
-      // <td class="jsgrid-cell jsgrid-align-center" style="width: 30px;">✓<span class="refCount">[2&nbsp;<i class="fa fa-files-o" aria-hidden="true"></i>]</span></td>
-      // QUESTION: Is jsgrid going to attach the classes and styles
-      // for me, or not?
-      var display = entry.val;
+    itemTemplate: function(entry, item) {
+      var theory = item.theory;
+      var myName = theory + ':' + this.name;
+      var innerHTML = '<input type="checkbox" id="' + myName
+          + '" class="bibCheck"><label for="' + myName + '">';
+      innerHTML += entry.val;
       if (entry.refs.length > 0) {
-        display += '<span class="refCount">[' + entry.refs.length.toString();
-        display += '&nbsp;<i class="fa fa-files-o" aria-hidden="true"></i>]</span>';
+        innerHTML += ' [' + entry.refs.length.toString();
+        innerHTML += '&nbsp;<i class="fa fa-files-o" aria-hidden="true"></i>]';
       }
-      return jsGrid.TextField.prototype.itemTemplate(display);
+      innerHTML += '</label>';
+
+      var el = document.createElement('span');
+      el.innerHTML = innerHTML;
+
+      // el.addEventListener('click',function(event) {
+      //   console.log($(this).parent());
+      //   $(this).parent().toggleClass("active");
+      //   return false;
+      // });
+
+      return innerHTML;
     },
   });
 
@@ -62,54 +70,99 @@ $(function() {
   // ------------------------------------------------------------
   // Make the magic happen
 
-  $("#theoryPropGrid").jsGrid({
-    height: "20em",
-    width: "100%",
+  $.ajax({
+    type: "GET",
+    url: tableURL,
+    dataType: "JSON"
+  }).done( function(response) {
 
-    sorting: true,
-    paging: false,
-    pageLoading: false,
-    autoload: true,
-    selecting: false,
+    // Grid 1
+    $("#theoryPropGrid").jsGrid({
+      height: "20em",
+      width: "100%",
 
-    controller: {
-      loadData: function(filter) {
-        var d = $.Deferred();
+      sorting: true,
+      paging: false,
+      pageLoading: false,
+      autoload: true,
+      selecting: false,
 
-        $.ajax({
-          type: "GET",
-          url: tableURL,
-          dataType: "JSON"
-        }).done( function(response) {
-          d.resolve(response);
-        }).fail( function(jqxhr, textStatus, error ) {
-          var err = textStatus + ", " + error;
-          console.log( "Request Failed: " + err );
-        });
+      controller: {
+        loadData: function(filter) {
+          return response;
+        }
+      },
 
-        return d.promise();
-      }
-    },
+      fields: [
+        { name: "theory", type: "text", title: "Theory" },
+        { name: "scalar", type: "checkbox", title: "S", width: 20 },
+        { name: "pseudoscalar", type: "checkbox", title: "P", width: 20 },
+        { name: "vector", type: "checkbox", title: "V", width: 20 },
+        { name: "tensor", type: "checkbox", title: "T", width: 20 },
+        { name: "strongEP", type: "checkbox", title: "Strong EP", width: 25 },
+        { name: "masslessGraviton", type: "checkbox", title: "Massless graviton", width: 25 },
+        { name: "localLorentz", type: "checkbox", title: "Lorentz symmetry", width: 25 },
+        { name: "linearT", type: "checkbox", title: "Linear \\(T_{\\mu\\nu}\\)", width: 25 },
+        { name: "weakEP", type: "checkbox", title: "Weak EP", width: 25 },
+        { name: "wellPosed", type: "textBib", title: "Well posed", width: 30 },
+      ],
+    });
 
-    fields: [
-      { name: "theory", type: "text", title: "Theory" },
-      { name: "scalar", type: "checkbox", title: "S", width: 20 },
-      { name: "pseudoscalar", type: "checkbox", title: "P", width: 20 },
-      { name: "vector", type: "checkbox", title: "V", width: 20 },
-      { name: "tensor", type: "checkbox", title: "T", width: 20 },
-      { name: "strongEP", type: "checkbox", title: "Strong EP", width: 25 },
-      { name: "masslessGraviton", type: "checkbox", title: "Massless graviton", width: 25 },
-      { name: "localLorentz", type: "checkbox", title: "Lorentz symmetry", width: 25 },
-      { name: "linearT", type: "checkbox", title: "Linear \\(T_{\\mu\\nu}\\)", width: 25 },
-      { name: "weakEP", type: "checkbox", title: "Weak EP", width: 25 },
-      { name: "wellPosed", type: "textBib", title: "Well posed", width: 30 },
-    ]
+    // Grid 2
+    $("#BHPropGrid").jsGrid({
+      height: "20em",
+      width: "100%",
+
+      sorting: true,
+      paging: false,
+      pageLoading: false,
+      autoload: true,
+      selecting: false,
+
+      controller: {
+        loadData: function(filter) {
+          return response;
+        }
+      },
+
+      fields: [
+        { name: "theory", type: "text", title: "Theory" },
+      ],
+    });
+
+    // Grid 3
+    $("#NSPropGrid").jsGrid({
+      height: "20em",
+      width: "100%",
+
+      sorting: true,
+      paging: false,
+      pageLoading: false,
+      autoload: true,
+      selecting: false,
+
+      controller: {
+        loadData: function(filter) {
+          return response;
+        }
+      },
+
+      fields: [
+        { name: "theory", type: "text", title: "Theory" },
+      ],
+    });
+
+    // End 'done()' loading AJAX
+
+  }).fail( function(jqxhr, textStatus, error ) {
+    var err = textStatus + ", " + error;
+    console.log( "Request Failed: " + err );
   });
 
   // ---------- Biblio stuff ----------
 
-  // TODO: Make custom row renderer that formats a bib entry with links
-
+  // TODO make a custom row renderer for bib entries
+  
   $.ajax({
     type: "GET",
     url: bibURL,
@@ -158,5 +211,5 @@ $(function() {
     var err = textStatus + ", " + error;
     console.log( "Request Failed: " + err );
   });
-  
+
 });

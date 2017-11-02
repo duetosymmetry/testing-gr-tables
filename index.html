@@ -8,13 +8,26 @@ scripts: |
   <script type="text/javascript" src="testing-gr-tables.js"></script>
 ---
 
-Write some intro text here
+<p>Write some intro text here</p>
 
 <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.css" />
 <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid-theme.min.css" />
 
 <link type="text/css" rel="stylesheet" href="testing-gr-table-tweaks.css" />
 
-<div id="theoryPropGrid"></div>
+<p>Three available tables:</p>
+
+<input id="theoryPropSel" type="radio" name="tabSelect" checked>
+<label for="theoryPropSel" class="tabSelectLabel">Theory properties</label>
+<input id="BHPropSel" type="radio" name="tabSelect">
+<label for="BHPropSel" class="tabSelectLabel">BH solutions</label>
+<input id="NSPropSel" type="radio" name="tabSelect">
+<label for="NSPropSel" class="tabSelectLabel">NS solutions</label>
+
+<div id="theoryPropGrid" class="defaultHidden"></div>
+<div id="BHPropGrid" class="defaultHidden"></div>
+<div id="NSPropGrid" class="defaultHidden"></div>
+
+<h2>(Selected) References</h2>
 
 <div id="bibGrid"></div>
