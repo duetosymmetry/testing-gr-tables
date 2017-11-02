@@ -14,10 +14,15 @@ label.tabSelectLabel {
     display: inline-block; padding: 8px 8px; text-align: center;
     margin: 0;
     border-radius: 10px 10px 0 0;
+    border: 1px solid #c4e2ff;
+    border-bottom: none;
 }
 
 label.tabSelectLabel:hover { background:#c4e2ff; cursor: pointer; }
-input[name='tabSelect']:checked + label.tabSelectLabel { background:#b4d2ff; }
+input[name='tabSelect']:checked + label.tabSelectLabel {
+    background: #b4d2ff;
+    border-color: #b4d2ff;
+}
 
 input[disabled],select[disabled],textarea[disabled],input[readonly],select[readonly],textarea[readonly] {
   opacity:unset;

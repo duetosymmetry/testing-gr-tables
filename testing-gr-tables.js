@@ -95,16 +95,16 @@ $(function() {
 
       fields: [
         { name: "theory", type: "text", title: "Theory" },
-        { name: "scalar", type: "checkbox", title: "S", width: 20 },
-        { name: "pseudoscalar", type: "checkbox", title: "P", width: 20 },
-        { name: "vector", type: "checkbox", title: "V", width: 20 },
-        { name: "tensor", type: "checkbox", title: "T", width: 20 },
+        { name: "scalar", type: "checkbox", title: "S", width: 15 },
+        { name: "pseudoscalar", type: "checkbox", title: "P", width: 15 },
+        { name: "vector", type: "checkbox", title: "V", width: 15 },
+        { name: "tensor", type: "checkbox", title: "T", width: 15 },
         { name: "strongEP", type: "checkbox", title: "Strong EP", width: 25 },
         { name: "masslessGraviton", type: "checkbox", title: "Massless graviton", width: 25 },
         { name: "localLorentz", type: "checkbox", title: "Lorentz symmetry", width: 25 },
         { name: "linearT", type: "checkbox", title: "Linear \\(T_{\\mu\\nu}\\)", width: 25 },
         { name: "weakEP", type: "checkbox", title: "Weak EP", width: 25 },
-        { name: "wellPosed", type: "textBib", title: "Well posed", width: 30 },
+        { name: "wellPosed", type: "textBib", title: "Well posed", width: 25 },
       ],
     });
 
