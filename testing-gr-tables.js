@@ -8,11 +8,27 @@ $(function() {
   var bibURL = "biblio-filtered.json";
   var bibData = null;
 
+  var mangleAuthors = function(authString) {
+    var auths = authString
+        .split(" and ")
+        .map(str =>  str.split(",", 1)[0]);
+
+    switch (auths.length) {
+    case 1:
+      return auths[0];
+    case 2:
+      return auths.join(' and ');
+    default:
+      return auths[0] + ' et al.';
+    }
+  }
+
   var processBib2JSONEntry = function(entry) {
     var fields = entry.Fields;
     fields.ObjectType = entry.ObjectType;
     fields.EntryType  = entry.EntryType;
     fields.EntryKey   = entry.EntryKey;
+    fields.author     = mangleAuthors(fields.author);
     return fields;
   };
 
@@ -189,7 +205,29 @@ $(function() {
 
   // ---------- Biblio stuff ----------
 
-  // TODO make a custom row renderer for bib entries
+  // TODO make a custom row renderer for bib entries?
+
+  var formatTitle = function(titleText, bibEntry) {
+    var hasDOI    = 'doi' in bibEntry;
+    var hasEprint = 'eprint' in bibEntry;
+
+    var itemText = '';
+
+    if (hasDOI) {
+      itemText = '<a href="https://dx.doi.org/'
+        + bibEntry.doi + '">' + titleText + '</a>';
+    } else {
+      itemText = titleText;
+    };
+
+    if (hasEprint) {
+      itemText += ' [<a href="https://arxiv.org/abs/'
+        + bibEntry.eprint + '">' + bibEntry.eprint
+        + '</a>]';
+    };
+
+    return itemText;
+  };
   
   $.ajax({
     type: "GET",
@@ -229,9 +267,12 @@ $(function() {
       },
 
       fields: [
-        { name: "title", type: "text", title: "Title" },
-        { name: "year", type: "text", title: "Year" },
-        { name: "journal", type: "text", title: "Journal" },
+        { name: "author", type: "text", title: "Author(s)", width: 60 },
+        { name: "year", type: "text", title: "Year", width: 15 },
+        { name: "title", type: "text", title: "Title",
+          itemTemplate: formatTitle, },
+        { name: "journal", type: "text", title: "Journal", width: 60 },
+        { name: "volume", type: "text", title: "Vol.", width: 25 },
       ]
     });
 

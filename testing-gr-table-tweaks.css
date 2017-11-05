@@ -9,6 +9,10 @@
   display: block;
 }
 
+#bibGrid a:hover {
+  text-decoration: underline;
+}
+
 input[name='tabSelect'] { display: none; }
 label.tabSelectLabel {
     display: inline-block; padding: 8px 8px; text-align: center;
