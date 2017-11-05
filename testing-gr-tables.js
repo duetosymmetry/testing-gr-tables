@@ -81,6 +81,12 @@ $(function() {
   // ------------------------------------------------------------
   // Make the magic happen
 
+  // Thanks to Mike Boyle for the following tip
+  var reJax = function() {
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, "grid"]);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub, "column_selectors"]);
+  };
+
   $.ajax({
     type: "GET",
     url: tableURL,
@@ -91,6 +97,9 @@ $(function() {
     $("#theoryPropGrid").jsGrid({
       height: "20em",
       width: "100%",
+
+      onRefreshed: reJax,
+      onDataLoaded: reJax,
 
       sorting: true,
       paging: false,
@@ -124,6 +133,9 @@ $(function() {
       height: "20em",
       width: "100%",
 
+      onRefreshed: reJax,
+      onDataLoaded: reJax,
+
       sorting: true,
       paging: false,
       pageLoading: false,
@@ -145,6 +157,9 @@ $(function() {
     $("#NSPropGrid").jsGrid({
       height: "20em",
       width: "100%",
+
+      onRefreshed: reJax,
+      onDataLoaded: reJax,
 
       sorting: true,
       paging: false,
