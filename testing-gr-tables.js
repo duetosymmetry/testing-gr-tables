@@ -46,14 +46,17 @@ $(function() {
       var theory = item.theory;
       var myName = theory + ':' + this.name; // this.name is the name of the *field*
 
-      var shouldBeChecked = (myName in selectedBibs);
+      var haveBibs = entry.refs.length > 0;
+      var disabledText = haveBibs ? '' : ' disabled';
+
+      var shouldBeChecked = myName in selectedBibs;
       var checkedText = shouldBeChecked ? ' checked' : '';
 
       var innerHTML = '<div><input type="checkbox" id="' + myName
-          + '" class="bibCheck"' + checkedText
+          + '" class="bibCheck"' + checkedText + disabledText
           + '><label for="' + myName + '">';
       innerHTML += entry.val;
-      if (entry.refs.length > 0) {
+      if (haveBibs) {
         innerHTML += ' [' + entry.refs.length.toString();
         innerHTML += '&nbsp;<i class="fa fa-files-o" aria-hidden="true"></i>]';
       }
