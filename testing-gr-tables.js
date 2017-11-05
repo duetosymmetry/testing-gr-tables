@@ -113,8 +113,8 @@ $(function() {
 
     // Grid 1
     $("#theoryPropGrid").jsGrid({
-      height: "20em",
-      width: "100%",
+      height: "18em",
+      width: "99%",
 
       onRefreshed: reJax,
       onDataLoaded: reJax,
@@ -132,24 +132,25 @@ $(function() {
       },
 
       fields: [
-        { name: "theory", type: "text", title: "Theory" },
-        { name: "scalar", type: "checkbox", title: "S", width: 15 },
-        { name: "pseudoscalar", type: "checkbox", title: "P", width: 15 },
-        { name: "vector", type: "checkbox", title: "V", width: 15 },
-        { name: "tensor", type: "checkbox", title: "T", width: 15 },
-        { name: "strongEP", type: "checkbox", title: "Strong EP", width: 25 },
-        { name: "masslessGraviton", type: "checkbox", title: "Massless graviton", width: 25 },
-        { name: "localLorentz", type: "checkbox", title: "Lorentz symmetry", width: 25 },
-        { name: "linearT", type: "checkbox", title: "Linear \\(T_{\\mu\\nu}\\)", width: 25 },
-        { name: "weakEP", type: "checkbox", title: "Weak EP", width: 25 },
-        { name: "wellPosed", type: "textBib", title: "Well posed", width: 25 },
+        { name: "theory", type: "text", title: "Theory", width: "15em" },
+        { name: "scalar", type: "checkbox", title: "S", width: "2em" },
+        { name: "pseudoscalar", type: "checkbox", title: "P", width: "2em" },
+        { name: "vector", type: "checkbox", title: "V", width: "2em" },
+        { name: "tensor", type: "checkbox", title: "T", width: "2em" },
+        { name: "strongEP", type: "checkbox", title: "Strong EP", width: "4em" },
+        { name: "masslessGraviton", type: "checkbox", title: "Massless graviton", width: "5.5em" },
+        { name: "localLorentz", type: "checkbox", title: "Lorentz symmetry", width: "5.5em" },
+        { name: "linearT", type: "checkbox", title: "Linear \\(T_{\\mu\\nu}\\)", width: "4em" },
+        { name: "weakEP", type: "checkbox", title: "Weak EP", width: "4em" },
+        { name: "wellPosed", type: "textBib", title: "Well posed", width: "4em" },
+        { name: "weakFieldConstr", type: "textBib", title: "Weak-field constraints", width: "auto" },
       ],
     });
 
     // Grid 2
     $("#BHPropGrid").jsGrid({
-      height: "20em",
-      width: "100%",
+      height: "18em",
+      width: "99%",
 
       onRefreshed: reJax,
       onDataLoaded: reJax,
@@ -167,14 +168,18 @@ $(function() {
       },
 
       fields: [
-        { name: "theory", type: "text", title: "Theory" },
+        { name: "theory", type: "text", title: "Theory", width: "15em" },
+        { name: "BHsols", type: "textBib", title: "Solutions", width: "5.5em" },
+        { name: "BHstab", type: "textBib", title: "Stability", width: "5.5em" },
+        { name: "BHgeod", type: "textBib", title: "Geodesics", width: "5.5em" },
+        { name: "BHquad", type: "textBib", title: "Quadrupole", width: "auto" },
       ],
     });
 
     // Grid 3
     $("#NSPropGrid").jsGrid({
-      height: "20em",
-      width: "100%",
+      height: "18em",
+      width: "99%",
 
       onRefreshed: reJax,
       onDataLoaded: reJax,
@@ -192,7 +197,14 @@ $(function() {
       },
 
       fields: [
-        { name: "theory", type: "text", title: "Theory" },
+        { name: "theory", type: "text", title: "Theory", width: "15em" },
+        { name: "NSNR", type: "textBib", title: "Non-rotating", width: "5em" },
+        { name: "NSSR", type: "textBib", title: "Slow rotation", width: "5em" },
+        { name: "NSFR", type: "textBib", title: "Rapid rotation", width: "5em" },
+        { name: "NScollapse", type: "textBib", title: "Collapse", width: "5em" },
+        { name: "NSsens", type: "textBib", title: "Sensitivities", width: "6em" },
+        { name: "NSstab", type: "textBib", title: "Stability", width: "5em" },
+        { name: "NSgeod", type: "textBib", title: "Geodesics", width: "auto" },
       ],
     });
 
@@ -238,7 +250,7 @@ $(function() {
     bibData = response.map(processBib2JSONEntry);
 
     $("#bibGrid").jsGrid({
-      height: "20em",
+      height: "18em",
       width: "100%",
 
       sorting: true,
