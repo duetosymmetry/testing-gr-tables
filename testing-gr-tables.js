@@ -67,7 +67,6 @@ $(function() {
             } else {
               delete selectedBibs[myName];
             };
-            console.log(selectedBibs);
             $("#bibGrid").jsGrid("loadData", selectedBibs);
           })
           .end();
