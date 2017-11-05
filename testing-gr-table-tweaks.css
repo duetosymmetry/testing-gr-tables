@@ -35,13 +35,13 @@ table {
 
 .ref-cell { padding: 0; }
 
-.ref-cell > input { display: none; }
-.ref-cell > input + label:hover {
+.ref-cell input { display: none; }
+.ref-cell input + label:hover {
     background: #c4e2ff;
     border-color: #c4e2ff;
     cursor:pointer;
 }
-.ref-cell > input:checked + label {
+.ref-cell input:checked + label {
     background: #b4d2ff;
     border-color: #b4d2ff;
 }

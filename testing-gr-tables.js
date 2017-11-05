@@ -17,9 +17,11 @@ $(function() {
   };
 
   // ------------------------------------------------------------
-  // Custom field for entry with bibrefs
 
-  // TODO: Make a custom field for entry with bibrefs
+  var selectedBibs = {};
+
+  // ------------------------------------------------------------
+  // Custom field for entry with bibrefs
 
   var MyTextBibField = function(config) {
     jsGrid.TextField.call(this, config);
@@ -42,26 +44,35 @@ $(function() {
 
     itemTemplate: function(entry, item) {
       var theory = item.theory;
-      var myName = theory + ':' + this.name;
-      var innerHTML = '<input type="checkbox" id="' + myName
-          + '" class="bibCheck"><label for="' + myName + '">';
+      var myName = theory + ':' + this.name; // this.name is the name of the *field*
+
+      var shouldBeChecked = (myName in selectedBibs);
+      var checkedText = shouldBeChecked ? ' checked' : '';
+
+      var innerHTML = '<div><input type="checkbox" id="' + myName
+          + '" class="bibCheck"' + checkedText
+          + '><label for="' + myName + '">';
       innerHTML += entry.val;
       if (entry.refs.length > 0) {
         innerHTML += ' [' + entry.refs.length.toString();
         innerHTML += '&nbsp;<i class="fa fa-files-o" aria-hidden="true"></i>]';
       }
-      innerHTML += '</label>';
+      innerHTML += '</label></div>';
 
-      var el = document.createElement('span');
-      el.innerHTML = innerHTML;
+      var el = $(innerHTML)
+          .find("input")
+          .on("change", function() {
+            if ( $(this).is(":checked") ) {
+              selectedBibs[myName] = entry.refs;
+            } else {
+              delete selectedBibs[myName];
+            };
+            console.log(selectedBibs);
+            $("#bibGrid").jsGrid("loadData", selectedBibs);
+          })
+          .end();
 
-      // el.addEventListener('click',function(event) {
-      //   console.log($(this).parent());
-      //   $(this).parent().toggleClass("active");
-      //   return false;
-      // });
-
-      return innerHTML;
+      return el;
     },
   });
 
@@ -182,14 +193,14 @@ $(function() {
       selecting: false,
 
       controller: {
-        loadData: function(filter) {
-          // - Check if filter is an array. If not, ignore.
-          // - If an empty array, ignore.
-          // - If an array of strings, only return those elements from
-          //   bibData whose EntryKey fields appear in the filter
+        loadData: function(bibDict) {
 
-          if (!Array.isArray(filter))
-            filter = [];
+          var filter = [];
+
+          if(bibDict instanceof Object)
+            for (key in bibDict)
+              if (bibDict[key] instanceof Array)
+                filter = filter.concat(bibDict[key]);
 
           if (filter.length == 0)
             return bibData;
