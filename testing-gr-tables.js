@@ -101,8 +101,7 @@ $(function() {
 
   // Thanks to Mike Boyle for the following tip
   var reJax = function() {
-    MathJax.Hub.Queue(["Typeset", MathJax.Hub, "grid"]);
-    MathJax.Hub.Queue(["Typeset", MathJax.Hub, "column_selectors"]);
+    MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
   };
 
   $.ajax({
@@ -142,7 +141,7 @@ $(function() {
         { name: "localLorentz", type: "checkbox", title: "Lorentz symmetry", width: "5.5em" },
         { name: "linearT", type: "checkbox", title: "Linear \\(T_{\\mu\\nu}\\)", width: "4em" },
         { name: "weakEP", type: "checkbox", title: "Weak EP", width: "4em" },
-        { name: "wellPosed", type: "textBib", title: "Well posed", width: "4em" },
+        { name: "wellPosed", type: "textBib", title: "Well posed", width: "5em" },
         { name: "weakFieldConstr", type: "textBib", title: "Weak-field constraints", width: "auto" },
       ],
     });
@@ -279,12 +278,12 @@ $(function() {
       },
 
       fields: [
-        { name: "author", type: "text", title: "Author(s)", width: 60 },
-        { name: "year", type: "text", title: "Year", width: 15 },
-        { name: "title", type: "text", title: "Title",
+        { name: "author", type: "text", title: "Author(s)", width: "14em" },
+        { name: "year", type: "text", title: "Year", width: "3.5em" },
+        { name: "title", type: "text", title: "Title", width: "auto",
           itemTemplate: formatTitle, },
-        { name: "journal", type: "text", title: "Journal", width: 60 },
-        { name: "volume", type: "text", title: "Vol.", width: 25 },
+        { name: "journal", type: "text", title: "Journal", width: "10em" },
+        { name: "volume", type: "text", title: "Vol.", width: "4em" },
       ]
     });
 
