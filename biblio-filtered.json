@@ -2,6 +2,73 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Garfinkle:2007bk",
+  "Fields": {
+   "author": "Garfinkle, David and Eling, Christopher and Jacobson, Ted",
+   "title": "Numerical simulations of gravitational collapse in Einstein-aether theory",
+   "journal": "Phys. Rev.",
+   "volume": "D76",
+   "pages": "024003",
+   "doi": "10.1103/PhysRevD.76.024003",
+   "year": "2007",
+   "eprint": "gr-qc/0703093",
+   "archivePrefix": "arXiv",
+   "primaryClass": "GR-QC",
+   "SLACcitation": "%%CITATION = GR-QC/0703093;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Nzioki:2014oaa",
+  "Fields": {
+   "author": "Nzioki, Anne Marie and Goswami, Rituparno and Dunsby, Peter K. S.",
+   "title": "Vibrating Black Holes in f(R) gravity",
+   "year": "2014",
+   "eprint": "1408.0152",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1408.0152;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Hersh:1985hz",
+  "Fields": {
+   "author": "Hersh, Jeff and Ove, Roger",
+   "title": "Instability of the Kerr Solution of Fourth Order Gravity",
+   "journal": "Phys. Lett.",
+   "volume": "B156",
+   "pages": "305",
+   "doi": "10.1016/0370-2693(85)91614-4",
+   "year": "1985",
+   "reportNumber": "YTP 85-03",
+   "SLACcitation": "%%CITATION = PHLTA,B156,305;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Babichev:2013cya",
+  "Fields": {
+   "author": "Babichev, Eugeny and Charmousis, Christos",
+   "title": "Dressing a black hole with a time-dependent Galileon",
+   "journal": "JHEP",
+   "volume": "1408",
+   "pages": "106",
+   "doi": "10.1007/JHEP08(2014)106",
+   "year": "2014",
+   "eprint": "1312.3204",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "LPT-ORSAY-13-105",
+   "SLACcitation": "%%CITATION = ARXIV:1312.3204;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Hawking:1972qk",
   "Fields": {
    "author": "Hawking, S.W.",
@@ -49,6 +116,92 @@
    "archivePrefix": "arXiv",
    "primaryClass": "gr-qc",
    "SLACcitation": "%%CITATION = GR-QC/9503053;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Shibata:1994qd",
+  "Fields": {
+   "author": "Shibata, M. and Nakao, K. and Nakamura, T.",
+   "title": "Scalar type gravitational wave emission from gravitational collapse in Brans-Dicke theory: Detectability by a laser interferometer",
+   "journal": "Phys. Rev.",
+   "volume": "D50",
+   "pages": "7304-7317",
+   "doi": "10.1103/PhysRevD.50.7304",
+   "year": "1994",
+   "SLACcitation": "%%CITATION = PHRVA,D50,7304;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Harada:1996wt",
+  "Fields": {
+   "author": "Harada, Tomohiro and Chiba, Takeshi and Nakao, Ken-ichi and Nakamura, Takashi",
+   "title": "Scalar gravitational wave from Oppenheimer-Snyder collapse in scalar - tensor theories of gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D55",
+   "pages": "2024-2037",
+   "doi": "10.1103/PhysRevD.55.2024",
+   "year": "1997",
+   "eprint": "gr-qc/9611031",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "KUNS-1405, YITP-96-31",
+   "SLACcitation": "%%CITATION = GR-QC/9611031;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Scheel:1994yn",
+  "Fields": {
+   "author": "Scheel, Mark A. and Shapiro, Stuart L. and Teukolsky, Saul A.",
+   "title": "Collapse to black holes in Brans-Dicke theory. 2. Comparison with general relativity",
+   "journal": "Phys. Rev.",
+   "volume": "D51",
+   "pages": "4236-4249",
+   "doi": "10.1103/PhysRevD.51.4236",
+   "year": "1995",
+   "eprint": "gr-qc/9411026",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "CRSR-1086",
+   "SLACcitation": "%%CITATION = GR-QC/9411026;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Kerimo:1998qu",
+  "Fields": {
+   "author": "Kerimo, Johannes and Kalligas, Dimitri",
+   "title": "Gravitational collapse of collisionless matter in scalar tensor theories: Scalar waves and black hole formation",
+   "journal": "Phys. Rev.",
+   "volume": "D58",
+   "pages": "104002",
+   "doi": "10.1103/PhysRevD.58.104002",
+   "year": "1998",
+   "SLACcitation": "%%CITATION = PHRVA,D58,104002;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Novak:1997hw",
+  "Fields": {
+   "author": "Novak, Jerome",
+   "title": "Spherical neutron star collapse in tensor - scalar theory of gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D57",
+   "pages": "4789-4801",
+   "doi": "10.1103/PhysRevD.57.4789",
+   "year": "1998",
+   "eprint": "gr-qc/9707041",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = GR-QC/9707041;%%"
   }
  },
  {
@@ -139,6 +292,24 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Eling:2006ec",
+  "Fields": {
+   "adsurl": "http://adsabs.harvard.edu/abs/2006CQGra..23.5643E",
+   "archiveprefix": "arXiv",
+   "author": "Eling, Christopher and Jacobson, Ted",
+   "doi": "10.1088/0264-9381/23/18/009",
+   "eprint": "gr-qc/0604088",
+   "journal": "Class. Quantum Grav.",
+   "pages": "5643-5660",
+   "slaccitation": "%%CITATION = GR-QC/0604088;%%",
+   "title": "Black holes in Einstein-aether theory",
+   "volume": "23",
+   "year": "2006"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Freire:2012mg",
   "Fields": {
    "author": "Freire, Paulo C.C. and Wex, Norbert and Esposito-Farese, Gilles and Verbiest, Joris P.W. and Bailes, Matthew and others",
@@ -152,6 +323,24 @@
    "archivePrefix": "arXiv",
    "primaryClass": "astro-ph.GA",
    "SLACcitation": "%%CITATION = ARXIV:1205.1450;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Iorio:2012cm",
+  "Fields": {
+   "author": "Iorio, Lorenzo and Saridakis, Emmanuel N.",
+   "title": "Solar system constraints on f(T) gravity",
+   "journal": "Mon. Not. R. Astron. Soc.",
+   "volume": "427",
+   "pages": "1555",
+   "doi": "10.1111/j.1365-2966.2012.21995.x",
+   "year": "2012",
+   "eprint": "1203.5781",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1203.5781;%%"
   }
  },
  {
@@ -172,6 +361,115 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Pani:2009wy",
+  "Fields": {
+   "author": "Pani, Paolo and Cardoso, Vitor",
+   "title": "Are black holes in alternative theories serious astrophysical candidates? The Case for Einstein-Dilaton-Gauss-Bonnet black holes",
+   "journal": "Phys. Rev.",
+   "volume": "D79",
+   "pages": "084031",
+   "doi": "10.1103/PhysRevD.79.084031",
+   "year": "2009",
+   "eprint": "0902.1569",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:0902.1569;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Ayzenberg:2013wua",
+  "Fields": {
+   "author": "Ayzenberg, Dimitry and Yagi, Kent and Yunes, Nicolas",
+   "title": "Linear Stability Analysis of Dynamical Quadratic Gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D89",
+   "pages": "044023",
+   "doi": "10.1103/PhysRevD.89.044023",
+   "year": "2014",
+   "eprint": "1310.6392",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1310.6392;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sotani:2004rq",
+  "Fields": {
+   "author": "Sotani, Hajime and Kokkotas, Kostas D.",
+   "title": "Probing strong-field scalar-tensor gravity with gravitational wave asteroseismology",
+   "journal": "Phys. Rev.",
+   "volume": "D70",
+   "pages": "084026",
+   "doi": "10.1103/PhysRevD.70.084026",
+   "year": "2004",
+   "eprint": "gr-qc/0409066",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = GR-QC/0409066;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Lima:2010na",
+  "Fields": {
+   "author": "Lima, William C.C. and Matsas, George E.A. and Vanzella, Daniel A.T.",
+   "title": "Awaking the vacuum in relativistic stars",
+   "journal": "Phys. Rev. Lett.",
+   "volume": "105",
+   "pages": "151102",
+   "doi": "10.1103/PhysRevLett.105.151102",
+   "year": "2010",
+   "eprint": "1009.1771",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1009.1771;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Mendes:2013ija",
+  "Fields": {
+   "author": "Mendes, Raissa F.P. and Matsas, George E.A. and Vanzella, Daniel A.T.",
+   "title": "Quantum versus classical instability of scalar fields in curved backgrounds",
+   "journal": "Phys. Rev.",
+   "volume": "D89",
+   "pages": "047503",
+   "doi": "10.1103/PhysRevD.89.047503",
+   "year": "2014",
+   "eprint": "1310.2185",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1310.2185;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Landulfo:2014wra",
+  "Fields": {
+   "author": "Landulfo, André G. S. and Lima, Willam C. C. and Matsas, George E. A. and Vanzella, Daniel A. T.",
+   "title": "From quantum to classical instability in relativistic stars",
+   "journal": "Phys. Rev.",
+   "number": "2",
+   "volume": "D91",
+   "pages": "024011",
+   "doi": "10.1103/PhysRevD.91.024011",
+   "year": "2015",
+   "eprint": "1410.2274",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1410.2274;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Salgado:2008xh",
   "Fields": {
    "adsurl": "http://adsabs.harvard.edu/abs/2008PhRvD..77j4010S",
@@ -186,6 +484,265 @@
    "title": "Hyperbolicity of scalar-tensor theories of gravity",
    "volume": "D77",
    "year": "2008"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Herdeiro:2014goa",
+  "Fields": {
+   "author": "Herdeiro, Carlos A. R. and Radu, Eugen",
+   "title": "Kerr black holes with scalar hair",
+   "journal": "Phys. Rev. Lett.",
+   "volume": "112",
+   "pages": "221101",
+   "doi": "10.1103/PhysRevLett.112.221101",
+   "year": "2014",
+   "eprint": "1403.2757",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1403.2757;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Herdeiro:2011im",
+  "Fields": {
+   "doi": "10.1103/PhysRevD.84.124048",
+   "primaryclass": "gr-qc",
+   "author": "Herdeiro, Carlos and Hirano, Shinji and Sato, Yuki",
+   "journal": "Phys. Rev.",
+   "title": "n-DBI gravity",
+   "pages": "124048",
+   "volume": "D84",
+   "eprint": "1110.0832",
+   "slaccitation": "%%CITATION = ARXIV:1110.0832;%%",
+   "year": "2011",
+   "archiveprefix": "arXiv"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Konno:2009kg",
+  "Fields": {
+   "author": "Konno, Kohkichi and Matsuyama, Toyoki and Tanda, Satoshi",
+   "title": "Rotating black hole in extended Chern-Simons modified gravity",
+   "journal": "Prog. Theor. Phys.",
+   "volume": "122",
+   "pages": "561-568",
+   "doi": "10.1143/PTP.122.561",
+   "year": "2009",
+   "eprint": "0902.4767",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:0902.4767;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "deRham:2014zqa",
+  "Fields": {
+   "author": "de Rham, Claudia",
+   "title": "Massive Gravity",
+   "journal": "Living Rev. Relativ.",
+   "volume": "17",
+   "pages": "7",
+   "doi": "10.12942/lrr-2014-7",
+   "year": "2014",
+   "eprint": "1401.4173",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th",
+   "SLACcitation": "%%CITATION = ARXIV:1401.4173;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Herdeiro:2015gia",
+  "Fields": {
+   "author": "Herdeiro, Carlos and Radu, Eugen",
+   "title": "Construction and physical properties of Kerr black holes with scalar hair",
+   "journal": "Class. Quantum Grav.",
+   "volume": "32",
+   "year": "2015",
+   "number": "14",
+   "pages": "144001",
+   "doi": "10.1088/0264-9381/32/14/144001",
+   "eprint": "1501.04319",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1501.04319;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Yazadjiev:2015zia",
+  "Fields": {
+   "author": "Yazadjiev, Stoytcho S. and Doneva, Daniela D. and Kokkotas, Kostas D.",
+   "title": "Rapidly rotating neutron stars in R-squared gravity",
+   "journal": "Phys. Rev.",
+   "number": "8",
+   "volume": "D91",
+   "pages": "084018",
+   "doi": "10.1103/PhysRevD.91.084018",
+   "year": "2015",
+   "eprint": "1501.04591",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1501.04591;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Coelho:2013zq",
+  "Fields": {
+   "doi": "10.1103/PhysRevD.87.047502",
+   "primaryclass": "gr-qc",
+   "author": "Coelho, Flavio S. and Herdeiro, Carlos and Wang, Mengjie",
+   "journal": "Phys. Rev.",
+   "title": "n-DBI gravity, maximal slicing and the Kerr geometry",
+   "number": "4",
+   "pages": "047502",
+   "volume": "D87",
+   "eprint": "1301.1070",
+   "slaccitation": "%%CITATION = ARXIV:1301.1070;%%",
+   "year": "2013",
+   "archiveprefix": "arXiv"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Coelho:2013dya",
+  "Fields": {
+   "author": "Coelho, Flávio S. and Herdeiro, Carlos and Hirano, Shinji and Sato, Yuki",
+   "title": "PPN expansion and FRW scalar perturbations in n-DBI gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D90",
+   "pages": "064040",
+   "doi": "10.1103/PhysRevD.90.064040",
+   "year": "2014",
+   "eprint": "1307.4598",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1307.4598;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Hui:2012qt",
+  "Fields": {
+   "author": "Hui, Lam and Nicolis, Alberto",
+   "title": "No-Hair Theorem for the Galileon",
+   "journal": "Phys. Rev. Lett.",
+   "number": "24",
+   "volume": "110",
+   "pages": "241104",
+   "doi": "10.1103/PhysRevLett.110.241104",
+   "year": "2013",
+   "eprint": "1202.1296",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th",
+   "SLACcitation": "%%CITATION = ARXIV:1202.1296;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sotiriou:2013qea",
+  "Fields": {
+   "author": "Sotiriou, Thomas P. and Zhou, Shuang-Yong",
+   "title": "Black hole hair in generalized scalar-tensor gravity",
+   "journal": "Phys. Rev. Lett.",
+   "volume": "112",
+   "pages": "251102",
+   "doi": "10.1103/PhysRevLett.112.251102",
+   "year": "2014",
+   "eprint": "1312.3622",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1312.3622;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sotiriou:2014pfa",
+  "Fields": {
+   "author": "Sotiriou, Thomas P. and Zhou, Shuang-Yong",
+   "title": "Black hole hair in generalized scalar-tensor gravity: An explicit example",
+   "journal": "Phys. Rev.",
+   "number": "12",
+   "volume": "D90",
+   "pages": "124063",
+   "doi": "10.1103/PhysRevD.90.124063",
+   "year": "2014",
+   "eprint": "1408.1698",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1408.1698;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Brito:2013wya",
+  "Fields": {
+   "doi": "10.1103/PhysRevD.88.023514",
+   "primaryclass": "gr-qc",
+   "author": "Brito, Richard and Cardoso, Vitor and Pani, Paolo",
+   "journal": "Phys. Rev.",
+   "title": "Massive spin-2 fields on black hole spacetimes: Instability of the Schwarzschild and Kerr solutions and bounds on the graviton mass",
+   "number": "2",
+   "pages": "023514",
+   "volume": "D88",
+   "eprint": "1304.6725",
+   "slaccitation": "%%CITATION = ARXIV:1304.6725;%%",
+   "year": "2013",
+   "archiveprefix": "arXiv"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Brito:2013yxa",
+  "Fields": {
+   "author": "Brito, Richard and Cardoso, Vitor and Pani, Paolo",
+   "title": "Partially massless gravitons do not destroy general relativity black holes",
+   "journal": "Phys. Rev.",
+   "number": "12",
+   "volume": "D87",
+   "pages": "124024",
+   "doi": "10.1103/PhysRevD.87.124024",
+   "year": "2013",
+   "eprint": "1306.0908",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1306.0908;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Brito:2013xaa",
+  "Fields": {
+   "author": "Brito, Richard and Cardoso, Vitor and Pani, Paolo",
+   "title": "Black holes with massive graviton hair",
+   "journal": "Phys. Rev.",
+   "volume": "D88",
+   "pages": "064006",
+   "doi": "10.1103/PhysRevD.88.064006",
+   "year": "2013",
+   "eprint": "1309.0818",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1309.0818;%%"
   }
  },
  {
@@ -284,6 +841,56 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Novak:1998rk",
+  "Fields": {
+   "doi": "10.1103/PhysRevD.58.064019",
+   "primaryclass": "gr-qc",
+   "author": "Novak, Jerome",
+   "journal": "Phys. Rev.",
+   "title": "Neutron star transition to strong scalar field state in tensor scalar gravity",
+   "pages": "064019",
+   "volume": "D58",
+   "eprint": "gr-qc/9806022",
+   "slaccitation": "%%CITATION = GR-QC/9806022;%%",
+   "year": "1998",
+   "archiveprefix": "arXiv"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Novak:1999jg",
+  "Fields": {
+   "doi": "10.1086/308627",
+   "primaryclass": "astro-ph",
+   "author": "Novak, Jerome and Ibanez, Jose M.",
+   "journal": "Astrophys. J.",
+   "title": "Gravitational waves from the collapse and bounce of a stellar core in tensor scalar gravity",
+   "pages": "392-405",
+   "volume": "533",
+   "eprint": "astro-ph/9911298",
+   "slaccitation": "%%CITATION = ASTRO-PH/9911298;%%",
+   "year": "2000",
+   "archiveprefix": "arXiv"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Scheel:1994yr",
+  "Fields": {
+   "author": "Scheel, M. A. and Shapiro, S. L. and Teukolsky, S. A.",
+   "title": "Collapse to black holes in Brans-Dicke theory. I. Horizon boundary conditions for dynamical systems",
+   "journal": "Phys. Rev.",
+   "volume": "D51",
+   "pages": "4208-4235",
+   "doi": "10.1103/PhysRevD.51.4208",
+   "year": "1995"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Zouros:1979iw",
   "Fields": {
    "author": "Zouros, T.J.M. and Eardley, D.M.",
@@ -316,6 +923,61 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Yagi:2013bca",
+  "Fields": {
+   "author": "Yagi, Kent and Yunes, Nicolas",
+   "title": "I-Love-Q",
+   "journal": "Science",
+   "volume": "341",
+   "pages": "365-368",
+   "doi": "10.1126/science.1236462",
+   "year": "2013",
+   "eprint": "1302.4499",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1302.4499;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Yagi:2013awa",
+  "Fields": {
+   "author": "Yagi, Kent and Yunes, Nicolas",
+   "title": "I-Love-Q Relations in Neutron Stars and their Applications to Astrophysics, Gravitational Waves and Fundamental Physics",
+   "journal": "Phys. Rev.",
+   "number": "2",
+   "volume": "D88",
+   "pages": "023009",
+   "doi": "10.1103/PhysRevD.88.023009",
+   "year": "2013",
+   "eprint": "1303.1528",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1303.1528;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Yunes:2009hc",
+  "Fields": {
+   "author": "Yunes, Nicolas and Pretorius, Frans",
+   "title": "Dynamical Chern-Simons Modified Gravity. I. Spinning Black Holes in the Slow-Rotation Approximation",
+   "journal": "Phys. Rev.",
+   "volume": "D79",
+   "pages": "084043",
+   "doi": "10.1103/PhysRevD.79.084043",
+   "year": "2009",
+   "eprint": "0902.4669",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:0902.4669;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "AliHaimoud:2011fw",
   "Fields": {
    "author": "Ali-Haimoud, Yacine and Chen, Yanbei",
@@ -334,6 +996,116 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Staykov:2014mwa",
+  "Fields": {
+   "author": "Staykov, Kalin V. and Doneva, Daniela D. and Yazadjiev, Stoytcho S. and Kokkotas, Kostas D.",
+   "title": "Slowly rotating neutron and strange stars in $R^2$ gravity",
+   "journal": "JCAP",
+   "volume": "1410",
+   "year": "2014",
+   "number": "10",
+   "pages": "006",
+   "doi": "10.1088/1475-7516/2014/10/006",
+   "eprint": "1407.2180",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1407.2180;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Pani:2014jra",
+  "Fields": {
+   "author": "Pani, Paolo and Berti, Emanuele",
+   "title": "I-Love-Q, Spontaneously: Slowly Rotating Neutron Stars in Scalar-Tensor Theories",
+   "journal": "Phys. Rev.",
+   "volume": "D90",
+   "pages": "024025",
+   "doi": "10.1103/PhysRevD.90.024025",
+   "year": "2014",
+   "eprint": "1405.4547",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1405.4547;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Yunes:2009ch",
+  "Fields": {
+   "author": "Yunes, Nicolas and Psaltis, Dimitrios and Ozel, Feryal and Loeb, Abraham",
+   "title": "Constraining Parity Violation in Gravity with Measurements of Neutron-Star Moments of Inertia",
+   "journal": "Phys. Rev.",
+   "volume": "D81",
+   "pages": "064020",
+   "doi": "10.1103/PhysRevD.81.064020",
+   "year": "2010",
+   "eprint": "0912.2736",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:0912.2736;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Yagi:2013mbt",
+  "Fields": {
+   "author": "Yagi, Kent and Stein, Leo C. and Yunes, Nicolas and Tanaka, Takahiro",
+   "title": "Isolated and Binary Neutron Stars in Dynamical Chern-Simons Gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D87",
+   "pages": "084058",
+   "doi": "10.1103/PhysRevD.87.084058",
+   "year": "2013",
+   "eprint": "1302.1918",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1302.1918;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sotani:2014goa",
+  "Fields": {
+   "author": "Sotani, Hajime",
+   "title": "Observational discrimination of Eddington-inspired Born-Infeld gravity from general relativity",
+   "journal": "Phys. Rev.",
+   "volume": "D89",
+   "pages": "104005",
+   "year": "2014",
+   "eprint": "1404.5369",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.HE",
+   "reportNumber": "YITP-14-34",
+   "SLACcitation": "%%CITATION = ARXIV:1404.5369;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Kanti:1995vq",
+  "Fields": {
+   "author": "Kanti, P. and Mavromatos, N.E. and Rizos, J. and Tamvakis, K. and Winstanley, E.",
+   "title": "Dilatonic black holes in higher curvature string gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D54",
+   "pages": "5049-5058",
+   "doi": "10.1103/PhysRevD.54.5049",
+   "year": "1996",
+   "eprint": "hep-th/9511071",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th",
+   "reportNumber": "CERN-TH-95-297, OUTP-95-43-P",
+   "SLACcitation": "%%CITATION = HEP-TH/9511071;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Jacobson:2008aj",
   "Fields": {
    "author": "Jacobson, Ted",
@@ -347,6 +1119,78 @@
    "archivePrefix": "arXiv",
    "primaryClass": "gr-qc",
    "SLACcitation": "%%CITATION = ARXIV:0801.1547;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Blas:2010hb",
+  "Fields": {
+   "author": "Blas, Diego and Pujolas, Oriol and Sibiryakov, Sergey",
+   "title": "Models of non-relativistic quantum gravity: The Good, the bad and the healthy",
+   "journal": "JHEP",
+   "volume": "1104",
+   "pages": "018",
+   "doi": "10.1007/JHEP04(2011)018",
+   "year": "2011",
+   "eprint": "1007.3503",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th",
+   "SLACcitation": "%%CITATION = ARXIV:1007.3503;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Pani:2011xm",
+  "Fields": {
+   "author": "Pani, Paolo and Berti, Emanuele and Cardoso, Vitor and Read, Jocelyn",
+   "title": "Compact stars in alternative theories of gravity. Einstein-Dilaton-Gauss-Bonnet gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D84",
+   "pages": "104035",
+   "doi": "10.1103/PhysRevD.84.104035",
+   "year": "2011",
+   "eprint": "1109.0928",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1109.0928;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Gruzinov:2011mm",
+  "Fields": {
+   "author": "Gruzinov, Andrei and Mirbabayi, Mehrdad",
+   "title": "Stars and Black Holes in Massive Gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D84",
+   "pages": "124019",
+   "doi": "10.1103/PhysRevD.84.124019",
+   "year": "2011",
+   "eprint": "1106.2551",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th",
+   "SLACcitation": "%%CITATION = ARXIV:1106.2551;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Eling:2007xh",
+  "Fields": {
+   "author": "Eling, Christopher and Jacobson, Ted and Miller, M. Coleman",
+   "title": "Neutron stars in Einstein-aether theory",
+   "journal": "Phys. Rev.",
+   "volume": "D76",
+   "pages": "042003",
+   "doi": "10.1103/PhysRevD.76.042003, 10.1103/PhysRevD.80.129906",
+   "year": "2007",
+   "eprint": "0705.1565",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:0705.1565;%%"
   }
  },
  {
@@ -389,6 +1233,43 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Maselli:2014fca",
+  "Fields": {
+   "author": "Maselli, Andrea and Gualtieri, Leonardo and Pani, Paolo and Stella, Luigi and Ferrari, Valeria",
+   "title": "Testing Gravity with Quasi Periodic Oscillations from accreting Black Holes: the Case of the Einstein-Dilaton-Gauss-Bonnet Theory",
+   "journal": "Astrophys. J.",
+   "number": "2",
+   "volume": "801",
+   "pages": "115",
+   "doi": "10.1088/0004-637X/801/2/115",
+   "year": "2015",
+   "eprint": "1412.3473",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.HE",
+   "SLACcitation": "%%CITATION = ARXIV:1412.3473;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Yagi:2012ya",
+  "Fields": {
+   "author": "Yagi, Kent and Yunes, Nicolas and Tanaka, Takahiro",
+   "title": "Slowly Rotating Black Holes in Dynamical Chern-Simons Gravity: Deformation Quadratic in the Spin",
+   "journal": "Phys. Rev.",
+   "volume": "D86",
+   "pages": "044037",
+   "doi": "10.1103/PhysRevD.86.044037",
+   "year": "2012",
+   "eprint": "1206.6130",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1206.6130;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Alsing:2011er",
   "Fields": {
    "author": "Alsing, Justin and Berti, Emanuele and Will, Clifford M. and Zaglauer, Helmut",
@@ -402,6 +1283,79 @@
    "archivePrefix": "arXiv",
    "primaryClass": "gr-qc",
    "SLACcitation": "%%CITATION = ARXIV:1112.4903;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Wang:2012nv",
+  "Fields": {
+   "author": "Wang, Anzhong",
+   "title": "Stationary and slowly rotating spacetimes in Hořava-Lifshitz gravity",
+   "journal": "Phys. Rev. Lett.",
+   "volume": "110",
+   "pages": "091101",
+   "doi": "10.1103/PhysRevLett.110.091101",
+   "year": "2013",
+   "eprint": "1212.1876",
+   "archivePrefix": "arXiv",
+   "SLACcitation": "%%CITATION = ARXIV:1212.1876;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Blas:2011ni",
+  "Fields": {
+   "author": "Blas, D. and Sibiryakov, S.",
+   "title": "Horava gravity versus thermodynamics: The Black hole case",
+   "journal": "Phys. Rev.",
+   "volume": "D84",
+   "pages": "124043",
+   "doi": "10.1103/PhysRevD.84.124043",
+   "year": "2011",
+   "eprint": "1110.2195",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th",
+   "SLACcitation": "%%CITATION = ARXIV:1110.2195;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Kobayashi:2012kh",
+  "Fields": {
+   "author": "Kobayashi, Tsutomu and Motohashi, Hayato and Suyama, Teruaki",
+   "title": "Black hole perturbation in the most general scalar-tensor theory with second-order field equations I: the odd-parity sector",
+   "journal": "Phys. Rev.",
+   "volume": "D85",
+   "pages": "084025",
+   "doi": "10.1103/PhysRevD.85.084025",
+   "year": "2012",
+   "eprint": "1202.4893",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "RESCEU-3-12, KUNS-2385",
+   "SLACcitation": "%%CITATION = ARXIV:1202.4893;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Kobayashi:2014wsa",
+  "Fields": {
+   "author": "Kobayashi, Tsutomu and Motohashi, Hayato and Suyama, Teruaki",
+   "title": "Black hole perturbation in the most general scalar-tensor theory with second-order field equations II: the even-parity sector",
+   "journal": "Phys. Rev.",
+   "volume": "D89",
+   "pages": "084042",
+   "doi": "10.1103/PhysRevD.89.084042",
+   "year": "2014",
+   "eprint": "1402.6740",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "RUP-14-4, RESCEU-5-14",
+   "SLACcitation": "%%CITATION = ARXIV:1402.6740;%%"
   }
  },
  {
@@ -425,6 +1379,295 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Kleihaus:2011tg",
+  "Fields": {
+   "author": "Kleihaus, Burkhard and Kunz, Jutta and Radu, Eugen",
+   "title": "Rotating Black Holes in Dilatonic Einstein-Gauss-Bonnet Theory",
+   "journal": "Phys. Rev. Lett.",
+   "volume": "106",
+   "pages": "151104",
+   "doi": "10.1103/PhysRevLett.106.151104",
+   "year": "2011",
+   "eprint": "1101.2868",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1101.2868;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Torii:1998gm",
+  "Fields": {
+   "author": "Torii, Takashi and Maeda, Kei-ichi",
+   "title": "Stability of a dilatonic black hole with a Gauss-Bonnet term",
+   "journal": "Phys. Rev.",
+   "volume": "D58",
+   "pages": "084004",
+   "doi": "10.1103/PhysRevD.58.084004",
+   "year": "1998",
+   "SLACcitation": "%%CITATION = PHRVA,D58,084004;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Konno:2014qua",
+  "Fields": {
+   "author": "Konno, Kohkichi and Takahashi, Rohta",
+   "title": "Scalar field excited around a rapidly rotating black hole in Chern-Simons modified gravity",
+   "journal": "Phys. Rev.",
+   "number": "6",
+   "volume": "D90",
+   "pages": "064011",
+   "doi": "10.1103/PhysRevD.90.064011",
+   "year": "2014",
+   "eprint": "1406.0957",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1406.0957;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Yunes:2011we",
+  "Fields": {
+   "author": "Yunes, Nicolas and Stein, Leo C.",
+   "title": "Non-Spinning Black Holes in Alternative Theories of Gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D83",
+   "pages": "104002",
+   "doi": "10.1103/PhysRevD.83.104002",
+   "year": "2011",
+   "eprint": "1101.2921",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1101.2921;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Ayzenberg:2014aka",
+  "Fields": {
+   "author": "Ayzenberg, Dimitry and Yunes, Nicolas",
+   "title": "Slowly-Rotating Black Holes in Einstein-Dilaton-Gauss-Bonnet Gravity: Quadratic Order in Spin Solutions",
+   "journal": "Phys. Rev.",
+   "volume": "D90",
+   "pages": "044066",
+   "doi": "10.1103/PhysRevD.90.044066",
+   "year": "2014",
+   "eprint": "1405.2133",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1405.2133;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Cardoso:2009pk",
+  "Fields": {
+   "author": "Cardoso, Vitor and Gualtieri, Leonardo",
+   "title": "Perturbations of Schwarzschild black holes in Dynamical Chern-Simons modified gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D80",
+   "pages": "064008",
+   "doi": "10.1103/PhysRevD.81.089903, 10.1103/PhysRevD.80.064008",
+   "year": "2009",
+   "eprint": "0907.5008",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:0907.5008;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Pani:2011gy",
+  "Fields": {
+   "author": "Pani, Paolo and Macedo, Caio F.B. and Crispino, Luis C.B. and Cardoso, Vitor",
+   "title": "Slowly rotating black holes in alternative theories of gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D84",
+   "pages": "087501",
+   "doi": "10.1103/PhysRevD.84.087501",
+   "year": "2011",
+   "eprint": "1109.3996",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1109.3996;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Molina:2010fb",
+  "Fields": {
+   "author": "Molina, C. and Pani, Paolo and Cardoso, Vitor and Gualtieri, Leonardo",
+   "title": "Gravitational signature of Schwarzschild black holes in dynamical Chern-Simons gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D81",
+   "pages": "124021",
+   "doi": "10.1103/PhysRevD.81.124021",
+   "year": "2010",
+   "eprint": "1004.4007",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1004.4007;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Barausse:2013nwa",
+  "Fields": {
+   "author": "Barausse, Enrico and Sotiriou, Thomas P.",
+   "title": "Black holes in Lorentz-violating gravity theories",
+   "journal": "Class. Quantum Grav.",
+   "volume": "30",
+   "pages": "244010",
+   "doi": "10.1088/0264-9381/30/24/244010",
+   "year": "2013",
+   "eprint": "1307.3359",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1307.3359;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Barausse:2012qh",
+  "Fields": {
+   "author": "Barausse, Enrico and Sotiriou, Thomas P.",
+   "title": "Slowly rotating black holes in Horava-Lifshitz gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D87",
+   "pages": "087504",
+   "doi": "10.1103/PhysRevD.87.087504",
+   "year": "2013",
+   "eprint": "1212.1334",
+   "archivePrefix": "arXiv",
+   "SLACcitation": "%%CITATION = ARXIV:1212.1334;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Barausse:2011pu",
+  "Fields": {
+   "author": "Barausse, Enrico and Jacobson, Ted and Sotiriou, Thomas P.",
+   "title": "Black holes in Einstein-aether and Horava-Lifshitz gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D83",
+   "pages": "124043",
+   "doi": "10.1103/PhysRevD.83.124043",
+   "year": "2011",
+   "eprint": "1104.2889",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1104.2889;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Babichev:2014fka",
+  "Fields": {
+   "author": "Babichev, Eugeny and Fabbri, Alessandro",
+   "title": "A class of charged black hole solutions in massive (bi)gravity",
+   "journal": "JHEP",
+   "volume": "1407",
+   "pages": "016",
+   "doi": "10.1007/JHEP07(2014)016",
+   "year": "2014",
+   "eprint": "1405.0581",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "LPT-ORSAY-14-42",
+   "SLACcitation": "%%CITATION = ARXIV:1405.0581;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Babichev:2014tfa",
+  "Fields": {
+   "author": "Babichev, Eugeny and Fabbri, Alessandro",
+   "title": "Rotating black holes in massive gravity",
+   "journal": "Phys. Rev.",
+   "number": "8",
+   "volume": "D90",
+   "pages": "084019",
+   "doi": "10.1103/PhysRevD.90.084019",
+   "year": "2014",
+   "eprint": "1406.6096",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "LPT-ORSAY-14-80",
+   "SLACcitation": "%%CITATION = ARXIV:1406.6096;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Babichev:2013una",
+  "Fields": {
+   "author": "Babichev, Eugeny and Fabbri, Alessandro",
+   "title": "Instability of black holes in massive gravity",
+   "journal": "Class. Quantum Grav.",
+   "volume": "30",
+   "pages": "152001",
+   "doi": "10.1088/0264-9381/30/15/152001",
+   "year": "2013",
+   "eprint": "1304.5992",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "LPT-ORSAY-13-34",
+   "SLACcitation": "%%CITATION = ARXIV:1304.5992;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Babichev:2014oua",
+  "Fields": {
+   "author": "Babichev, Eugeny and Fabbri, Alessandro",
+   "title": "Stability analysis of black holes in massive gravity: a unified treatment",
+   "journal": "Phys. Rev.",
+   "volume": "D89",
+   "pages": "081502",
+   "doi": "10.1103/PhysRevD.89.081502",
+   "year": "2014",
+   "eprint": "1401.6871",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "LPT-ORSAY-14-20",
+   "SLACcitation": "%%CITATION = ARXIV:1401.6871;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Pani:2011mg",
+  "Fields": {
+   "author": "Pani, Paolo and Cardoso, Vitor and Delsate, Terence",
+   "title": "Compact stars in Eddington inspired gravity",
+   "journal": "Phys. Rev. Lett.",
+   "volume": "107",
+   "pages": "031101",
+   "doi": "10.1103/PhysRevLett.107.031101",
+   "year": "2011",
+   "eprint": "1106.3569",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Salmona:1967zz",
   "Fields": {
    "author": "Salmona, A.",
@@ -434,6 +1677,23 @@
    "pages": "1218-1223",
    "doi": "10.1103/PhysRev.154.1218",
    "year": "1967"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "1969ApJ...155..999N",
+  "Fields": {
+   "author": "Nutku, Y.",
+   "title": "The Post-Newtonian Equations of Hydrodynamics in the Brans-Dicke Theory",
+   "journal": "apj",
+   "year": "1969",
+   "month": "March",
+   "volume": "155",
+   "pages": "999",
+   "doi": "10.1086/149928",
+   "adsurl": "http://adsabs.harvard.edu/abs/1969ApJ...155..999N",
+   "adsnote": "Provided by the SAO/NASA Astrophysics Data System"
   }
  },
  {
@@ -456,6 +1716,54 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Zaglauer:1992bp",
+  "Fields": {
+   "author": "Zaglauer, H.W.",
+   "title": "Neutron stars and gravitational scalars",
+   "journal": "Astrophys. J.",
+   "volume": "393",
+   "pages": "685-696",
+   "doi": "10.1086/171537",
+   "year": "1992"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Greenwald:2009kp",
+  "Fields": {
+   "author": "Greenwald, Jared and Papazoglou, Antonios and Wang, Anzhong",
+   "title": "Black holes and stars in Horava-Lifshitz theory with projectability condition",
+   "journal": "Phys. Rev.",
+   "volume": "D81",
+   "pages": "084046",
+   "doi": "10.1103/PhysRevD.81.084046",
+   "year": "2010",
+   "eprint": "0912.0011",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Pani:2010vc",
+  "Fields": {
+   "author": "Pani, Paolo and Cardoso, Vitor and Berti, Emanuele and Read, Jocelyn and Salgado, Marcelo",
+   "title": "The vacuum revealed: the final state of vacuum instabilities in compact stars",
+   "journal": "Phys. Rev.",
+   "volume": "D83",
+   "pages": "081501",
+   "doi": "10.1103/PhysRevD.83.081501",
+   "year": "2011",
+   "eprint": "1012.1343",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Yagi:2012gp",
   "Fields": {
    "author": "Yagi, Kent",
@@ -469,6 +1777,24 @@
    "archivePrefix": "arXiv",
    "primaryClass": "gr-qc",
    "SLACcitation": "%%CITATION = ARXIV:1204.4524;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Stein:2014xba",
+  "Fields": {
+   "doi": "10.1103/PhysRevD.90.044061",
+   "primaryclass": "gr-qc",
+   "author": "Stein, Leo C.",
+   "journal": "Phys. Rev.",
+   "title": "Rapidly rotating black holes in dynamical Chern-Simons gravity: Decoupling limit solutions and breakdown",
+   "pages": "044061",
+   "volume": "D90",
+   "eprint": "1407.2350",
+   "slaccitation": "%%CITATION = ARXIV:1407.2350;%%",
+   "year": "2014",
+   "archiveprefix": "arXiv"
   }
  },
  {
@@ -508,6 +1834,772 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Eling:2006df",
+  "Fields": {
+   "author": "Eling, Christopher and Jacobson, Ted",
+   "title": "Spherical solutions in Einstein-aether theory: Static aether and stars",
+   "journal": "Class. Quantum Grav.",
+   "volume": "23",
+   "pages": "5625-5642",
+   "doi": "10.1088/0264-9381/23/18/008, 10.1088/0264-9381/27/4/049801",
+   "year": "2006",
+   "eprint": "gr-qc/0603058",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Barreira:2013xea",
+  "Fields": {
+   "author": "Barreira, Alexandre and Li, Baojiu and Baugh, Carlton M. and Pascoli, Silvia",
+   "title": "Spherical collapse in Galileon gravity: fifth force solutions, halo mass function and halo bias",
+   "journal": "JCAP",
+   "volume": "1311",
+   "pages": "056",
+   "doi": "10.1088/1475-7516/2013/11/056",
+   "year": "2013",
+   "eprint": "1308.3699",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.CO",
+   "SLACcitation": "%%CITATION = ARXIV:1308.3699;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Bellini:2012qn",
+  "Fields": {
+   "author": "Bellini, Emilio and Bartolo, Nicola and Matarrese, Sabino",
+   "title": "Spherical Collapse in covariant Galileon theory",
+   "journal": "JCAP",
+   "volume": "1206",
+   "pages": "019",
+   "doi": "10.1088/1475-7516/2012/06/019",
+   "year": "2012",
+   "eprint": "1202.2712",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.CO",
+   "SLACcitation": "%%CITATION = ARXIV:1202.2712;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Chagoya:2014fza",
+  "Fields": {
+   "author": "Chagoya, Javier and Koyama, Kazuya and Niz, Gustavo and Tasinato, Gianmassimo",
+   "title": "Galileons and strong gravity",
+   "journal": "JCAP",
+   "number": "10",
+   "volume": "1410",
+   "pages": "055",
+   "doi": "10.1088/1475-7516/2014/10/055",
+   "year": "2014",
+   "eprint": "1407.7744",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th",
+   "SLACcitation": "%%CITATION = ARXIV:1407.7744;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Seifert:2007fr",
+  "Fields": {
+   "author": "Seifert, Michael D.",
+   "title": "Stability of spherically symmetric solutions in modified theories of gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D76",
+   "pages": "064002",
+   "doi": "10.1103/PhysRevD.76.064002",
+   "year": "2007",
+   "eprint": "gr-qc/0703060",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = GR-QC/0703060;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Kainulainen:2008pr",
+  "Fields": {
+   "author": "Kainulainen, Kimmo and Sunhede, Daniel",
+   "title": "Stability of spherically symmetric spacetimes in metric f(R) gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D78",
+   "pages": "063511",
+   "doi": "10.1103/PhysRevD.78.063511",
+   "year": "2008",
+   "eprint": "0803.0867",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:0803.0867;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Cembranos:2012fd",
+  "Fields": {
+   "author": "Cembranos, J.A.R. and de la Cruz-Dombriz, A. and Montes Nunez, B.",
+   "title": "Gravitational collapse in f(R) theories",
+   "journal": "JCAP",
+   "volume": "1204",
+   "pages": "021",
+   "doi": "10.1088/1475-7516/2012/04/021",
+   "year": "2012",
+   "eprint": "1201.1289",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1201.1289;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Borisov:2011fu",
+  "Fields": {
+   "author": "Borisov, Alexander and Jain, Bhuvnesh and Zhang, Pengjie",
+   "title": "Spherical Collapse in f(R) Gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D85",
+   "pages": "063518",
+   "doi": "10.1103/PhysRevD.85.063518",
+   "year": "2012",
+   "eprint": "1102.4839",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.CO",
+   "SLACcitation": "%%CITATION = ARXIV:1102.4839;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Olmo:2008pv",
+  "Fields": {
+   "author": "Olmo, Gonzalo J.",
+   "title": "Re-examination of Polytropic Spheres in Palatini f(R) Gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D78",
+   "pages": "104026",
+   "doi": "10.1103/PhysRevD.78.104026",
+   "year": "2008",
+   "eprint": "0810.3593",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:0810.3593;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Barausse:2007pn",
+  "Fields": {
+   "author": "Barausse, Enrico and Sotiriou, Thomas P. and Miller, John C.",
+   "title": "A No-go theorem for polytropic spheres in Palatini f(R) gravity",
+   "journal": "Class. Quantum Grav.",
+   "volume": "25",
+   "pages": "062001",
+   "doi": "10.1088/0264-9381/25/6/062001",
+   "year": "2008",
+   "eprint": "gr-qc/0703132",
+   "archivePrefix": "arXiv",
+   "primaryClass": "GR-QC"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Barausse:2007ys",
+  "Fields": {
+   "author": "Barausse, E. and Sotiriou, T.P. and Miller, J.C.",
+   "title": "Curvature singularities, tidal forces and the viability of Palatini f(R) gravity",
+   "journal": "Class. Quantum Grav.",
+   "volume": "25",
+   "pages": "105008",
+   "doi": "10.1088/0264-9381/25/10/105008",
+   "year": "2008",
+   "eprint": "0712.1141",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Blas:2011zd",
+  "Fields": {
+   "author": "Blas, Diego and Sanctuary, Hillary",
+   "title": "Gravitational Radiation in Horava Gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D84",
+   "pages": "064004",
+   "doi": "10.1103/PhysRevD.84.064004",
+   "year": "2011",
+   "eprint": "1105.5149",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1105.5149;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Harada:1997mr",
+  "Fields": {
+   "author": "Harada, Tomohiro",
+   "title": "Stability analysis of spherically symmetric star in scalar - tensor theories of gravity",
+   "journal": "Prog. Theor. Phys.",
+   "volume": "98",
+   "pages": "359-379",
+   "doi": "10.1143/PTP.98.359",
+   "year": "1997",
+   "eprint": "gr-qc/9706014",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Kobayashi:2008tq",
+  "Fields": {
+   "author": "Kobayashi, Tsutomu and Maeda, Kei-ichi",
+   "title": "Relativistic stars in f(R) gravity, and absence thereof",
+   "journal": "Phys. Rev.",
+   "volume": "D78",
+   "pages": "064019",
+   "doi": "10.1103/PhysRevD.78.064019",
+   "year": "2008",
+   "eprint": "0807.2503",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Upadhye:2009kt",
+  "Fields": {
+   "author": "Upadhye, Amol and Hu, Wayne",
+   "title": "The existence of relativistic stars in f(R) gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D80",
+   "pages": "064002",
+   "doi": "10.1103/PhysRevD.80.064002",
+   "year": "2009",
+   "eprint": "0905.4055",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.CO"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Babichev:2009td",
+  "Fields": {
+   "author": "Babichev, E. and Langlois, D.",
+   "title": "Relativistic stars in f(R) gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D80",
+   "pages": "121501",
+   "doi": "10.1103/PhysRevD.80.121501, 10.1103/PhysRevD.81.069901",
+   "year": "2009",
+   "eprint": "0904.1382",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Babichev:2009fi",
+  "Fields": {
+   "author": "Babichev, Eugeny and Langlois, David",
+   "title": "Relativistic stars in f(R) and scalar-tensor theories",
+   "journal": "Phys. Rev.",
+   "volume": "D81",
+   "pages": "124051",
+   "doi": "10.1103/PhysRevD.81.124051",
+   "year": "2010",
+   "eprint": "0911.1297",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Mignemi:1992nt",
+  "Fields": {
+   "author": "Mignemi, S. and Stewart, N.R.",
+   "title": "Charged black holes in effective string theory",
+   "journal": "Phys. Rev.",
+   "volume": "D47",
+   "pages": "5259-5269",
+   "doi": "10.1103/PhysRevD.47.5259",
+   "year": "1993",
+   "eprint": "hep-th/9212146",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Miranda:2009rs",
+  "Fields": {
+   "author": "Miranda, Vinicius and Joras, Sergio E. and Waga, Ioav and Quartin, Miguel",
+   "title": "Viable Singularity-Free f(R) Gravity Without a Cosmological Constant",
+   "journal": "Phys. Rev. Lett.",
+   "volume": "102",
+   "pages": "221101",
+   "doi": "10.1103/PhysRevLett.102.221101",
+   "year": "2009",
+   "eprint": "0905.1941",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.CO"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Jaime:2010kn",
+  "Fields": {
+   "author": "Jaime, Luisa G. and Patino, Leonardo and Salgado, Marcelo",
+   "title": "A robust approach to f(R) gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D83",
+   "pages": "024039",
+   "doi": "10.1103/PhysRevD.83.024039",
+   "year": "2011",
+   "eprint": "1006.5747",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Cooney:2009rr",
+  "Fields": {
+   "author": "Cooney, Alan and DeDeo, Simon and Psaltis, Dimitrios",
+   "title": "Neutron Stars in f(R) Gravity with Perturbative Constraints",
+   "journal": "Phys. Rev.",
+   "volume": "D82",
+   "pages": "064033",
+   "doi": "10.1103/PhysRevD.82.064033",
+   "year": "2010",
+   "eprint": "0910.5480",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.HE"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Babichev:2010jd",
+  "Fields": {
+   "author": "Babichev, E. and Deffayet, C. and Ziour, R.",
+   "title": "The Recovery of General Relativity in massive gravity via the Vainshtein mechanism",
+   "journal": "Phys. Rev.",
+   "volume": "D82",
+   "pages": "104008",
+   "doi": "10.1103/PhysRevD.82.104008",
+   "year": "2010",
+   "eprint": "1007.4506",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "reportNumber": "LMU-ASC-56-10",
+   "SLACcitation": "%%CITATION = ARXIV:1007.4506;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "deRham:2012fw",
+  "Fields": {
+   "author": "de Rham, Claudia and Tolley, Andrew J. and Wesley, Daniel H.",
+   "title": "Vainshtein Mechanism in Binary Pulsars",
+   "journal": "Phys. Rev.",
+   "number": "4",
+   "volume": "D87",
+   "pages": "044025",
+   "doi": "10.1103/PhysRevD.87.044025",
+   "year": "2013",
+   "eprint": "1208.0580",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1208.0580;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Volkov:2014ooa",
+  "Fields": {
+   "author": "Volkov, Mikhail S.",
+   "title": "Hairy black holes in theories with massive gravitons",
+   "journal": "Lect. Notes Phys.",
+   "volume": "892",
+   "pages": "161-180",
+   "doi": "10.1007/978-3-319-10070-8_6",
+   "year": "2015",
+   "eprint": "1405.1742",
+   "archivePrefix": "arXiv",
+   "primaryClass": "hep-th",
+   "SLACcitation": "%%CITATION = ARXIV:1405.1742;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "DeDeo:2004kk",
+  "Fields": {
+   "author": "DeDeo, Simon and Psaltis, Dimitrios",
+   "title": "Testing strong-field gravity with quasiperiodic oscillations",
+   "year": "2004",
+   "eprint": "astro-ph/0405067",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph",
+   "SLACcitation": "%%CITATION = ASTRO-PH/0405067;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Doneva:2014uma",
+  "Fields": {
+   "author": "Doneva, Daniela D. and Yazadjiev, Stoytcho S. and Stergioulas, Nikolaos and Kokkotas, Kostas D. and Athanasiadis, Tilemachos M.",
+   "title": "Orbital and epicyclic frequencies around rapidly rotating compact stars in scalar-tensor theories of gravity",
+   "journal": "Phys. Rev.",
+   "number": "4",
+   "volume": "D90",
+   "pages": "044004",
+   "doi": "10.1103/PhysRevD.90.044004",
+   "year": "2014",
+   "eprint": "1405.6976",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.HE",
+   "SLACcitation": "%%CITATION = ARXIV:1405.6976;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Doneva:2013qva",
+  "Fields": {
+   "author": "Doneva, Daniela D. and Yazadjiev, Stoytcho S. and Stergioulas, Nikolaos and Kokkotas, Kostas D.",
+   "title": "Rapidly rotating neutron stars in scalar-tensor theories of gravity",
+   "journal": "Phys. Rev.",
+   "number": "8",
+   "volume": "D88",
+   "pages": "084060",
+   "doi": "10.1103/PhysRevD.88.084060",
+   "year": "2013",
+   "eprint": "1309.0605",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1309.0605;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Yazadjiev:2014cza",
+  "Fields": {
+   "author": "Yazadjiev, Stoytcho S. and Doneva, Daniela D. and Kokkotas, Kostas D. and Staykov, Kalin V.",
+   "title": "Non-perturbative and self-consistent models of neutron stars in $R$-squared gravity",
+   "journal": "JCAP",
+   "volume": "1406",
+   "pages": "003",
+   "doi": "10.1088/1475-7516/2014/06/003",
+   "year": "2014",
+   "eprint": "1402.4469",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1402.4469;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sotani:2014tua",
+  "Fields": {
+   "author": "Sotani, Hajime",
+   "title": "Scalar gravitational waves from relativistic stars in scalar-tensor gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D89",
+   "pages": "064031",
+   "year": "2014",
+   "eprint": "1402.5699",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.HE",
+   "reportNumber": "YITP-14-15",
+   "SLACcitation": "%%CITATION = ARXIV:1402.5699;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sotani:2012eb",
+  "Fields": {
+   "author": "Sotani, Hajime",
+   "title": "Slowly Rotating Relativistic Stars in Scalar-Tensor Gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D86",
+   "pages": "124036",
+   "doi": "10.1103/PhysRevD.86.124036",
+   "year": "2012",
+   "eprint": "1211.6986",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.HE",
+   "SLACcitation": "%%CITATION = ARXIV:1211.6986;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sotani:2005qx",
+  "Fields": {
+   "author": "Sotani, Hajime and Kokkotas, Kostas D.",
+   "title": "Stellar oscillations in scalar-tensor theory of gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D71",
+   "pages": "124038",
+   "doi": "10.1103/PhysRevD.71.124038",
+   "year": "2005",
+   "eprint": "gr-qc/0506060",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = GR-QC/0506060;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Pani:2012qb",
+  "Fields": {
+   "author": "Pani, Paolo and Delsate, Terence and Cardoso, Vitor",
+   "title": "Eddington-inspired Born-Infeld gravity. Phenomenology of non-linear gravity-matter coupling",
+   "journal": "Phys. Rev.",
+   "volume": "D85",
+   "pages": "084020",
+   "doi": "10.1103/PhysRevD.85.084020",
+   "year": "2012",
+   "eprint": "1201.2814",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1201.2814;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Casanellas:2011kf",
+  "Fields": {
+   "author": "Casanellas, Jordi and Pani, Paolo and Lopes, Ilidio and Cardoso, Vitor",
+   "title": "Testing alternative theories of gravity using the Sun",
+   "journal": "Astrophys. J.",
+   "volume": "745",
+   "pages": "15",
+   "doi": "10.1088/0004-637X/745/1/15",
+   "year": "2012",
+   "eprint": "1109.0249",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.SR",
+   "SLACcitation": "%%CITATION = ARXIV:1109.0249;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Astashenok:2014gda",
+  "Fields": {
+   "author": "Astashenok, Artyom V. and Capozziello, Salvatore and Odintsov, Sergei D.",
+   "title": "Magnetic Neutron Stars in $f(R)$ gravity",
+   "journal": "Astrophys. Space Sci.",
+   "number": "2",
+   "volume": "355",
+   "pages": "333-341",
+   "doi": "10.1007/s10509-014-2182-6",
+   "year": "2015",
+   "eprint": "1405.6663",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1405.6663;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Astashenok:2014pua",
+  "Fields": {
+   "author": "Astashenok, Artyom V. and Capozziello, Salvatore and Odintsov, Sergei D.",
+   "title": "Maximal neutron star mass and the resolution of the hyperon puzzle in modified gravity",
+   "journal": "Phys. Rev.",
+   "number": "10",
+   "volume": "D89",
+   "pages": "103509",
+   "doi": "10.1103/PhysRevD.89.103509",
+   "year": "2014",
+   "eprint": "1401.4546",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1401.4546;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Arapoglu:2010rz",
+  "Fields": {
+   "author": "Arapoglu, A. Savas and Deliduman, Cemsinan and Eksi, K. Yavuz",
+   "title": "Constraints on Perturbative f(R) Gravity via Neutron Stars",
+   "journal": "JCAP",
+   "volume": "1107",
+   "pages": "020",
+   "doi": "10.1088/1475-7516/2011/07/020",
+   "year": "2011",
+   "eprint": "1003.3179",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1003.3179;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Alavirad:2013paa",
+  "Fields": {
+   "author": "Alavirad, Hamzeh and Weller, Joel M.",
+   "title": "Modified gravity with logarithmic curvature corrections and the structure of relativistic stars",
+   "journal": "Phys. Rev.",
+   "volume": "D88",
+   "pages": "124034",
+   "doi": "10.1103/PhysRevD.88.124034",
+   "year": "2013",
+   "eprint": "1307.7977",
+   "archivePrefix": "arXiv",
+   "reportNumber": "KA-TP-20-2013",
+   "SLACcitation": "%%CITATION = ARXIV:1307.7977;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Astashenok:2013vza",
+  "Fields": {
+   "author": "Astashenok, Artyom V. and Capozziello, Salvatore and Odintsov, Sergei D.",
+   "title": "Further stable neutron star models from f(R) gravity",
+   "journal": "JCAP",
+   "volume": "1312",
+   "pages": "040",
+   "doi": "10.1088/1475-7516/2013/12/040",
+   "year": "2013",
+   "eprint": "1309.1978",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1309.1978;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sotani:2014xoa",
+  "Fields": {
+   "author": "Sotani, Hajime",
+   "title": "Stellar oscillations in Eddington-inspired Born-Infeld gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D89",
+   "pages": "124037",
+   "year": "2014",
+   "eprint": "1406.3097",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.HE",
+   "reportNumber": "YITP-14-50",
+   "SLACcitation": "%%CITATION = ARXIV:1406.3097;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sham:2012qi",
+  "Fields": {
+   "author": "Sham, Y.-H. and Lin, L.-M. and Leung, P.T.",
+   "title": "Radial oscillations and stability of compact stars in Eddington inspired Born-Infeld gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D86",
+   "pages": "064015",
+   "doi": "10.1103/PhysRevD.86.064015",
+   "year": "2012",
+   "eprint": "1208.1314",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1208.1314;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Sham:2013sya",
+  "Fields": {
+   "author": "Sham, Y.H. and Leung, P.T. and Lin, L.M.",
+   "title": "Compact stars in Eddington-inspired Born-Infeld gravity: Anomalies associated with phase transitions",
+   "journal": "Phys. Rev.",
+   "number": "6",
+   "volume": "D87",
+   "pages": "061503",
+   "doi": "10.1103/PhysRevD.87.061503",
+   "year": "2013",
+   "eprint": "1304.0550",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1304.0550;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Harko:2013wka",
+  "Fields": {
+   "author": "Harko, Tiberiu and Lobo, Francisco S. N. and Mak, M.K. and Sushkov, Sergey V.",
+   "title": "Structure of neutron, quark and exotic stars in Eddington-inspired Born-Infeld gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D88",
+   "pages": "044032",
+   "doi": "10.1103/PhysRevD.88.044032",
+   "year": "2013",
+   "eprint": "1305.6770",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1305.6770;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Pani:2012qd",
+  "Fields": {
+   "author": "Pani, Paolo and Sotiriou, Thomas P.",
+   "title": "Surface singularities in Eddington-inspired Born-Infeld gravity",
+   "journal": "Phys. Rev. Lett.",
+   "volume": "109",
+   "pages": "251102",
+   "doi": "10.1103/PhysRevLett.109.251102",
+   "year": "2012",
+   "eprint": "1209.2972",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1209.2972;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Delsate:2014hba",
   "Fields": {
    "author": "Delsate, Térence and Hilditch, David and Witek, Helvi",
@@ -521,6 +2613,80 @@
    "archivePrefix": "arXiv",
    "primaryClass": "gr-qc",
    "SLACcitation": "%%CITATION = ARXIV:1407.6727;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Kleihaus:2014lba",
+  "Fields": {
+   "author": "Kleihaus, Burkhard and Kunz, Jutta and Mojica, Sindy",
+   "title": "Quadrupole Moments of Rapidly Rotating Compact Objects in Dilatonic Einstein-Gauss-Bonnet Theory",
+   "journal": "Phys. Rev.",
+   "number": "6",
+   "volume": "D90",
+   "pages": "061501",
+   "doi": "10.1103/PhysRevD.90.061501",
+   "year": "2014",
+   "eprint": "1407.6884",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1407.6884;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Kainulainen:2006wz",
+  "Fields": {
+   "author": "Kainulainen, Kimmo and Reijonen, Vappu and Sunhede, Daniel",
+   "title": "The Interior spacetimes of stars in Palatini f(R) gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D76",
+   "pages": "043503",
+   "doi": "10.1103/PhysRevD.76.043503",
+   "year": "2007",
+   "eprint": "gr-qc/0611132",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = GR-QC/0611132;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Kainulainen:2007bt",
+  "Fields": {
+   "author": "Kainulainen, Kimmo and Piilonen, Johanna and Reijonen, Vappu and Sunhede, Daniel",
+   "title": "Spherically symmetric spacetimes in f(R) gravity theories",
+   "journal": "Phys. Rev.",
+   "volume": "D76",
+   "pages": "024020",
+   "doi": "10.1103/PhysRevD.76.024020",
+   "year": "2007",
+   "eprint": "0704.2729",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:0704.2729;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Doneva:2014faa",
+  "Fields": {
+   "author": "Doneva, Daniela D. and Yazadjiev, Stoytcho S. and Staykov, Kalin V. and Kokkotas, Kostas D.",
+   "title": "Universal I-Q relations for rapidly rotating neutron and strange stars in scalar-tensor theories",
+   "journal": "Phys. Rev.",
+   "number": "10",
+   "volume": "D90",
+   "pages": "104021",
+   "doi": "10.1103/PhysRevD.90.104021",
+   "year": "2014",
+   "eprint": "1408.1641",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1408.1641;%%"
   }
  },
  {
@@ -544,6 +2710,24 @@
  {
   "ObjectType": "entry",
   "EntryType": "article",
+  "EntryKey": "Vincent:2013uea",
+  "Fields": {
+   "author": "Vincent, F.H.",
+   "title": "Testing Chern–Simons gravity with black holes?",
+   "journal": "Class. Quantum Grav.",
+   "volume": "31",
+   "pages": "025010",
+   "doi": "10.1088/0264-9381/31/2/025010",
+   "year": "2013",
+   "eprint": "1311.3251",
+   "archivePrefix": "arXiv",
+   "primaryClass": "astro-ph.HE",
+   "SLACcitation": "%%CITATION = ARXIV:1311.3251;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
   "EntryKey": "Shlapentokh-Rothman:2013ysa",
   "Fields": {
    "author": "Shlapentokh-Rothman, Yakov",
@@ -557,6 +2741,59 @@
    "archivePrefix": "arXiv",
    "primaryClass": "gr-qc",
    "SLACcitation": "%%CITATION = ARXIV:1302.3448;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Silva:2014ora",
+  "Fields": {
+   "author": "Silva, Hector O. and Sotani, Hajime and Berti, Emanuele and Horbatsch, Michael",
+   "title": "Torsional oscillations of neutron stars in scalar-tensor theory of gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D90",
+   "year": "2014",
+   "number": "12",
+   "pages": "124044",
+   "doi": "10.1103/PhysRevD.90.124044",
+   "eprint": "1410.2511",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1410.2511;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Harada:1998",
+  "Fields": {
+   "archiveprefix": "arXiv",
+   "author": "Harada, Tomohiro",
+   "eprint": "gr-qc/9801049",
+   "journal": "Phys. Rev.",
+   "pages": "4802",
+   "slaccitation": "%%CITATION = GR-QC/9801049;%%",
+   "title": "Neutron stars in scalar-tensor theories of gravity and catastrophe theory",
+   "volume": "D57",
+   "year": "1998"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Garfinkle:2010zx",
+  "Fields": {
+   "author": "Garfinkle, David and Pretorius, Frans and Yunes, Nicolas",
+   "title": "Linear Stability Analysis and the Speed of Gravitational Waves in Dynamical Chern-Simons Modified Gravity",
+   "journal": "Phys. Rev.",
+   "volume": "D82",
+   "pages": "041501",
+   "doi": "10.1103/PhysRevD.82.041501",
+   "year": "2010",
+   "eprint": "1007.2429",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1007.2429;%%"
   }
  },
  {

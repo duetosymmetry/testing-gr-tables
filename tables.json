@@ -23,32 +23,32 @@
       "val": "",
       "refs": ["Anabalon:2014lea","Damour:1976kh","Detweiler:1980uk","Zouros:1979iw","Cardoso:2004nk","Shlapentokh-Rothman:2013ysa","Cardoso:2013krh"] },
     "BHgeod": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "BHquad": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "NSNR": {
       "val": "",
       "refs": ["Salmona:1967zz","1974GReGr...5..663H","Damour:1993hw","Damour:1996ke","Tsuchida:1998jw","Salgado:1998sg"] },
     "NSSR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Damour:1996ke","Sotani:2012eb","Pani:2014jra"] },
     "NSFR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Doneva:2013qva","Doneva:2014uma","Doneva:2014faa"] },
     "NScollapse": {
       "val": "",
-      "refs": [] },
+      "refs": ["Scheel:1994yr","Scheel:1994yn","Shibata:1994qd","Harada:1996wt","Novak:1997hw","Novak:1998rk","Kerimo:1998qu","Novak:1999jg"] },
     "NSsens": {
       "val": "",
-      "refs": [] },
+      "refs": ["Zaglauer:1992bp"] },
     "NSstab": {
       "val": "",
-      "refs": [] },
+      "refs": ["1969ApJ...155..999N","Harada:1997mr","Harada:1998","Sotani:2004rq","Sotani:2005qx","Lima:2010na","Pani:2010vc","Mendes:2013ija","Landulfo:2014wra","Sotani:2014tua","Silva:2014ora"] },
     "NSgeod": {
       "val": "",
-      "refs": [] }
+      "refs": ["DeDeo:2004kk","Doneva:2014uma"] }
   }, {
     "theory": "Multiscalar",
     "scalar": true,
@@ -67,37 +67,37 @@
       "val": "",
       "refs": ["Damour:1992we"] },
     "BHsols": {
-      "val": "",
-      "refs": [] },
+      "val": "⊃GR",
+      "refs": ["Heusler:1995qj","Herdeiro:2014goa","Herdeiro:2015gia"] },
     "BHstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHquad": {
       "val": "",
-      "refs": [] },
+      "refs": ["Herdeiro:2014goa","Herdeiro:2015gia"] },
     "NSNR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSSR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSsens": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "Metric \\(f(R)\\)",
@@ -117,37 +117,37 @@
       "val": "",
       "refs": ["Berry:2011pb"] },
     "BHsols": {
-      "val": "",
-      "refs": [] },
+      "val": "⊃GR",
+      "refs": ["HeuslerBook","Sotiriou:2011dz"] },
     "BHstab": {
       "val": "",
-      "refs": [] },
+      "refs": ["Hersh:1985hz","Nzioki:2014oaa"] },
     "BHgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHquad": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSNR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Kobayashi:2008tq","Cooney:2009rr","Upadhye:2009kt","Babichev:2009td","Babichev:2009fi","Miranda:2009rs","Jaime:2010kn","Astashenok:2013vza","Astashenok:2014pua","Astashenok:2014gda","Yazadjiev:2014cza","Arapoglu:2010rz","Alavirad:2013paa"] },
     "NSSR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Staykov:2014mwa"] },
     "NSFR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Yazadjiev:2015zia"] },
     "NScollapse": {
       "val": "",
-      "refs": [] },
+      "refs": ["Cembranos:2012fd","Borisov:2011fu"] },
     "NSsens": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSstab": {
       "val": "",
-      "refs": [] },
+      "refs": ["Seifert:2007fr","Kainulainen:2008pr"] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "Einstein-scalar-Gauss-Bonnet",
@@ -167,37 +167,37 @@
       "val": "",
       "refs": ["Yagi:2012gp"] },
     "BHsols": {
-      "val": "",
-      "refs": [] },
+      "val": "NR SR FR TODO",
+      "refs": ["Mignemi:1992nt","Kanti:1995vq","Yunes:2011we","Pani:2009wy","Ayzenberg:2014aka","Kleihaus:2011tg"] },
     "BHstab": {
       "val": "",
-      "refs": [] },
+      "refs": ["Torii:1998gm","Ayzenberg:2013wua"] },
     "BHgeod": {
-      "val": "",
-      "refs": [] },
+      "val": "SR FR TODO",
+      "refs": ["Pani:2009wy","Pani:2011gy","Maselli:2014fca","Kleihaus:2011tg"] },
     "BHquad": {
       "val": "",
-      "refs": [] },
+      "refs": ["Kleihaus:2014lba","Ayzenberg:2014aka"] },
     "NSNR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Pani:2011xm"] },
     "NSSR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Pani:2011xm"] },
     "NSFR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Kleihaus:2014lba"] },
     "NScollapse": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSsens": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "Einstein-scalar-Chern-Simons",
@@ -217,37 +217,37 @@
       "val": "",
       "refs": ["AliHaimoud:2011fw"] },
     "BHsols": {
-      "val": "",
-      "refs": [] },
+      "val": "SR FR TODO",
+      "refs": ["Yunes:2009hc","Konno:2009kg","Yagi:2012ya","Stein:2014xba"] },
     "BHstab": {
-      "val": "",
-      "refs": [] },
+      "val": "NR SR TODO",
+      "refs": ["Cardoso:2009pk","Molina:2010fb","Garfinkle:2010zx","Konno:2014qua","Ayzenberg:2013wua"] },
     "BHgeod": {
       "val": "",
-      "refs": [] },
+      "refs": ["Yunes:2011we","Vincent:2013uea"] },
     "BHquad": {
       "val": "",
-      "refs": [] },
+      "refs": ["Yagi:2012ya"] },
     "NSNR": {
-      "val": "",
+      "val": "≡GR",
       "refs": [] },
     "NSSR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Yunes:2009ch","AliHaimoud:2011fw","Yagi:2013bca","Yagi:2013mbt","Yagi:2013awa"] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSsens": {
       "val": "",
-      "refs": [] },
+      "refs": ["Yagi:2013mbt"] },
     "NSstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "Generic quadratic gravity",
@@ -267,16 +267,16 @@
       "val": "",
       "refs": [] },
     "BHsols": {
-      "val": "",
-      "refs": [] },
+      "val": "SR",
+      "refs": ["Pani:2011gy"] },
     "BHstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHgeod": {
       "val": "",
-      "refs": [] },
+      "refs": ["Pani:2011gy"] },
     "BHquad": {
-      "val": "",
+      "val": "Eq.quadrupole_quadratic TODO",
       "refs": [] },
     "NSNR": {
       "val": "",
@@ -318,36 +318,36 @@
       "refs": [] },
     "BHsols": {
       "val": "",
-      "refs": [] },
+      "refs": ["Sotiriou:2013qea","Sotiriou:2014pfa","Babichev:2013cya"] },
     "BHstab": {
-      "val": "",
-      "refs": [] },
+      "val": "? ",
+      "refs": ["Kobayashi:2012kh","Kobayashi:2014wsa"] },
     "BHgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHquad": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSNR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSSR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSsens": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "Einstein-Æther",
@@ -367,37 +367,37 @@
       "val": "",
       "refs": ["Foster:2005dk","Jacobson:2008aj","Yagi:2013qpa","Yagi:2013ava"] },
     "BHsols": {
-      "val": "",
-      "refs": [] },
+      "val": "NR ",
+      "refs": ["Eling:2006ec","Barausse:2011pu","Barausse:2013nwa"] },
     "BHstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHgeod": {
       "val": "",
-      "refs": [] },
+      "refs": ["Barausse:2011pu","Barausse:2013nwa"] },
     "BHquad": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSNR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Eling:2006df","Eling:2007xh"] },
     "NSSR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
       "val": "",
-      "refs": [] },
+      "refs": ["Garfinkle:2007bk"] },
     "NSsens": {
       "val": "",
-      "refs": [] },
+      "refs": ["Yagi:2013qpa","Yagi:2013ava"] },
     "NSstab": {
       "val": "",
-      "refs": [] },
+      "refs": ["Seifert:2007fr"] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "Khronometric/ Hořava-Lifshitz",
@@ -415,307 +415,307 @@
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Blas:2010hb","Blas:2011zd","Yagi:2013qpa","Yagi:2013ava"] },
     "BHsols": {
-      "val": "",
-      "refs": [] },
+      "val": "NR… SR",
+      "refs": ["Barausse:2011pu","Wang:2012nv","Barausse:2012qh","Barausse:2013nwa"] },
     "BHstab": {
-      "val": "",
-      "refs": [] },
+      "val": "?",
+      "refs": ["Blas:2011ni"] },
     "BHgeod": {
       "val": "",
-      "refs": [] },
+      "refs": ["Barausse:2011pu","Barausse:2013nwa"] },
     "BHquad": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSNR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Greenwald:2009kp"] },
     "NSSR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSsens": {
       "val": "",
-      "refs": [] },
+      "refs": ["Yagi:2013qpa","Yagi:2013ava"] },
     "NSstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "n-DBI",
-    "scalar": "",
-    "pseudoscalar": "",
-    "vector": "",
-    "tensor": "",
-    "strongEP": "",
-    "masslessGraviton": "",
-    "localLorentz": "",
-    "linearT": "",
-    "weakEP": "",
+    "scalar": true,
+    "pseudoscalar": false,
+    "vector": false,
+    "tensor": false,
+    "strongEP": false,
+    "masslessGraviton": true,
+    "localLorentz": false,
+    "linearT": true,
+    "weakEP": true,
     "wellPosed": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
+      "val": "none",
+      "refs": ["Coelho:2013dya"] },
     "BHsols": {
-      "val": "",
-      "refs": [] },
+      "val": "NR",
+      "refs": ["Herdeiro:2011im","Coelho:2013zq"] },
     "BHstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHquad": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSNR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSSR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSsens": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "dRGT/bimetric",
-    "scalar": "",
-    "pseudoscalar": "",
-    "vector": "",
-    "tensor": "",
-    "strongEP": "",
-    "masslessGraviton": "",
-    "localLorentz": "",
-    "linearT": "",
-    "weakEP": "",
+    "scalar": true,
+    "pseudoscalar": false,
+    "vector": true,
+    "tensor": true,
+    "strongEP": false,
+    "masslessGraviton": false,
+    "localLorentz": true,
+    "linearT": true,
+    "weakEP": true,
     "wellPosed": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2014zqa"] },
     "BHsols": {
-      "val": "",
-      "refs": [] },
+      "val": "⊃GR… NR TODO",
+      "refs": ["Brito:2013xaa","Babichev:2014fka","Babichev:2014tfa","Volkov:2014ooa"] },
     "BHstab": {
       "val": "",
-      "refs": [] },
+      "refs": ["Babichev:2013una","Brito:2013wya","Brito:2013yxa","Babichev:2014oua"] },
     "BHgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHquad": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSNR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Babichev:2010jd","Gruzinov:2011mm"] },
     "NSSR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSsens": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "Galileon",
-    "scalar": "",
-    "pseudoscalar": "",
-    "vector": "",
-    "tensor": "",
-    "strongEP": "",
-    "masslessGraviton": "",
-    "localLorentz": "",
-    "linearT": "",
-    "weakEP": "",
+    "scalar": true,
+    "pseudoscalar": false,
+    "vector": false,
+    "tensor": false,
+    "strongEP": false,
+    "masslessGraviton": true,
+    "localLorentz": true,
+    "linearT": true,
+    "weakEP": true,
     "wellPosed": {
-      "val": "",
+      "val": "✓?",
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2012fw","deRham:2014zqa"] },
     "BHsols": {
       "val": "",
-      "refs": [] },
+      "refs": ["Hui:2012qt"] },
     "BHstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "BHquad": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSNR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Chagoya:2014fza"] },
     "NSSR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Chagoya:2014fza"] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
       "val": "",
-      "refs": [] },
+      "refs": ["Bellini:2012qn","Barreira:2013xea"] },
     "NSsens": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "Palatini \\(f(R)\\)",
-    "scalar": "",
-    "pseudoscalar": "",
-    "vector": "",
-    "tensor": "",
-    "strongEP": "",
-    "masslessGraviton": "",
-    "localLorentz": "",
-    "linearT": "",
-    "weakEP": "",
+    "scalar": false,
+    "pseudoscalar": false,
+    "vector": false,
+    "tensor": false,
+    "strongEP": true,
+    "masslessGraviton": true,
+    "localLorentz": true,
+    "linearT": false,
+    "weakEP": true,
     "wellPosed": {
-      "val": "",
+      "val": "✓",
       "refs": [] },
     "weakFieldConstr": {
-      "val": "",
+      "val": "none",
       "refs": [] },
     "BHsols": {
-      "val": "",
+      "val": "≡GR",
       "refs": [] },
     "BHstab": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "BHgeod": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "BHquad": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "NSNR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Kainulainen:2006wz","Kainulainen:2007bt","Barausse:2007pn","Barausse:2007ys","Olmo:2008pv"] },
     "NSSR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSsens": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "NSstab": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "Eddington-Born-Infeld",
-    "scalar": "",
-    "pseudoscalar": "",
-    "vector": "",
-    "tensor": "",
-    "strongEP": "",
-    "masslessGraviton": "",
-    "localLorentz": "",
-    "linearT": "",
-    "weakEP": "",
+    "scalar": false,
+    "pseudoscalar": false,
+    "vector": false,
+    "tensor": false,
+    "strongEP": true,
+    "masslessGraviton": true,
+    "localLorentz": true,
+    "linearT": false,
+    "weakEP": true,
     "wellPosed": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "weakFieldConstr": {
-      "val": "",
+      "val": "none",
       "refs": [] },
     "BHsols": {
-      "val": "",
+      "val": "≡GR",
       "refs": [] },
     "BHstab": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "BHgeod": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "BHquad": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "NSNR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Pani:2011mg","Pani:2012qb","Pani:2012qd","Sham:2013sya","Harko:2013wka","Sotani:2014goa","Casanellas:2011kf"] },
     "NSSR": {
       "val": "",
-      "refs": [] },
+      "refs": ["Pani:2011mg","Pani:2012qb"] },
     "NSFR": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "NScollapse": {
       "val": "",
-      "refs": [] },
+      "refs": ["Pani:2012qb"] },
     "NSsens": {
-      "val": "",
+      "val": "—",
       "refs": [] },
     "NSstab": {
       "val": "",
-      "refs": [] },
+      "refs": ["Sham:2012qi","Sotani:2014xoa"] },
     "NSgeod": {
-      "val": "",
+      "val": "?",
       "refs": [] }
   }, {
     "theory": "TeVeS",
-    "scalar": "",
-    "pseudoscalar": "",
-    "vector": "",
-    "tensor": "",
-    "strongEP": "",
-    "masslessGraviton": "",
-    "localLorentz": "",
-    "linearT": "",
-    "weakEP": "",
+    "scalar": true,
+    "pseudoscalar": false,
+    "vector": true,
+    "tensor": true,
+    "strongEP": false,
+    "masslessGraviton": true,
+    "localLorentz": true,
+    "linearT": true,
+    "weakEP": true,
     "wellPosed": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Freire:2012mg"] },
     "BHsols": {
       "val": "",
       "refs": [] },
@@ -751,17 +751,17 @@
       "refs": [] }
   }, {
     "theory": "\\(f(R){\\cal L}_m\\)",
-    "scalar": "",
-    "pseudoscalar": "",
-    "vector": "",
-    "tensor": "",
-    "strongEP": "",
-    "masslessGraviton": "",
-    "localLorentz": "",
-    "linearT": "",
-    "weakEP": "",
+    "scalar": false,
+    "pseudoscalar": false,
+    "vector": false,
+    "tensor": false,
+    "strongEP": false,
+    "masslessGraviton": true,
+    "localLorentz": true,
+    "linearT": true,
+    "weakEP": false,
     "wellPosed": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
@@ -801,21 +801,21 @@
       "refs": [] }
   }, {
     "theory": "\\(f(T)\\)",
-    "scalar": "",
-    "pseudoscalar": "",
-    "vector": "",
-    "tensor": "",
-    "strongEP": "",
-    "masslessGraviton": "",
-    "localLorentz": "",
-    "linearT": "",
-    "weakEP": "",
+    "scalar": false,
+    "pseudoscalar": false,
+    "vector": false,
+    "tensor": false,
+    "strongEP": false,
+    "masslessGraviton": true,
+    "localLorentz": false,
+    "linearT": true,
+    "weakEP": true,
     "wellPosed": {
-      "val": "",
+      "val": "?",
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Iorio:2012cm"] },
     "BHsols": {
       "val": "",
       "refs": [] },
