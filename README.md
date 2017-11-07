@@ -1,5 +1,9 @@
-# testing-gr-tables
-Tables for testing GR and theories beyond GR.
+[//]: # (Distributed under the MIT License.)
+[//]: # (See LICENSE.txt for details.)
+
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE.txt)
+
+# Tables on testing GR and theories beyond GR.
 
 These tables were born in the review article, Berti et al. (2015), _Testing General Relativity With Present and Future Astrophysical Observations_, [Class. Quantum Grav. **32** 243001](http://dx.doi.org/10.1088/0264-9381/32/24/243001)  [[arXiv:1501.07274](https://arxiv.org/abs/1501.07274)] as Tables 1, 2, and 3.  These were static LaTeX tables, and as this field is rapidly evolving, were soon out of date.
 
