@@ -4,7 +4,8 @@
 
 #theoryPropSel:checked ~ #theoryPropGrid,
 #BHPropSel:checked ~ #BHPropGrid,
-#NSPropSel:checked ~ #NSPropGrid
+#NSPropSel:checked ~ #NSPropGrid,
+#consSel:checked ~ #ConsGrid
 {
   display: block;
 }

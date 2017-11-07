@@ -162,7 +162,6 @@ $(function() {
         { name: "localLorentz", type: "checkbox", title: "Lorentz symmetry", width: "5.5em" },
         { name: "linearT", type: "checkbox", title: "Linear \\(T_{\\mu\\nu}\\)", width: "4em" },
         { name: "wellPosed", type: "textBib", title: "Well posed", width: "5em" },
-        { name: "weakFieldConstr", type: "textBib", title: "Weak-field constraints", width: "auto" },
       ],
     });
 
@@ -226,6 +225,32 @@ $(function() {
         { name: "NSsens", type: "textBib", title: "Sensitivities", width: "6em" },
         { name: "NSstab", type: "textBib", title: "Stability", width: "5em" },
         { name: "NSgeod", type: "textBib", title: "Geodesics", width: "auto" },
+      ],
+    });
+
+    // Grid 4
+    $("#ConsGrid").jsGrid({
+      height: "18em",
+      width: "99%",
+
+      onRefreshed: reJax,
+      onDataLoaded: reJax,
+
+      sorting: true,
+      paging: false,
+      pageLoading: false,
+      autoload: true,
+      selecting: false,
+
+      controller: {
+        loadData: function(filter) {
+          return response;
+        }
+      },
+
+      fields: [
+        { name: "theory", type: "text", title: "Theory", width: "15em" },
+        { name: "weakFieldConstr", type: "textBib", title: "Weak-field constraints", width: "auto" },
       ],
     });
 
