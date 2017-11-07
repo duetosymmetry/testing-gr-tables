@@ -3,6 +3,25 @@ $(function() {
   // ------------------------------------------------------------
   // Preliminary stuff
 
+  // This code comes from Mike Boyle
+  //
+  // We want to add tooltips to every column header, if applicable
+  //
+  var tooltipHeader = function() {
+    var tooltip = this.tooltip;
+    if (typeof tooltip !== "undefined") {
+      return $("<a>").addClass("tooltip").prop("title", tooltip).text(this.title);
+    } else {
+      return $("<div>").text(this.title);
+    }
+  };
+
+  // Add the tooltip to any text fields
+  jsGrid.fields.text.prototype.headerTemplate = tooltipHeader;
+  jsGrid.fields.checkbox.prototype.headerTemplate = tooltipHeader;
+
+  // ------------------------------------------------------------
+
   var tableURL = "tables.json";
 
   var bibURL = "biblio-filtered.json";
@@ -49,6 +68,7 @@ $(function() {
     align: "center",            // redefine general property 'align'
 
     // customProp: "",                 // custom property
+    headerTemplate: tooltipHeader,
 
     sorter: function(entry1, entry2) {
       if (entry1.val < entry2.val)
