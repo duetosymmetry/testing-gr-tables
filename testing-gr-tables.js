@@ -168,7 +168,9 @@ $(function() {
 
       fields: [
         { name: "theory", type: "text", title: "Theory", width: "15em" },
-        { name: "BHsols", type: "textBib", title: "Solutions", width: "5.5em" },
+        { name: "BHNR", type: "textBib", title: "Non-rotating", width: "5.5em" },
+        { name: "BHSR", type: "textBib", title: "Slow rotation", width: "5.5em" },
+        { name: "BHFR", type: "textBib", title: "Rapid rotation",  width: "5.5em" },
         { name: "BHstab", type: "textBib", title: "Stability", width: "5.5em" },
         { name: "BHgeod", type: "textBib", title: "Geodesics", width: "5.5em" },
         { name: "BHquad", type: "textBib", title: "Quadrupole", width: "auto" },
