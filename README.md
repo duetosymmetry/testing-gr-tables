@@ -10,7 +10,7 @@ These tables were born in the review article, Berti et al. (2015), _Testing Gene
 This repo is trying to keep them up to date, in a more uniform and both human- and computer-readable format, as dynamic web pages.
 
 ## Web page
-TODO
+The tables are currently hosted at https://duetosymmetry.com/testing-gr-tables/ (on Leo's web site).
 
 ## Format
 TODO
