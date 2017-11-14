@@ -15,8 +15,8 @@ scripts: |
 
 <link type="text/css" rel="stylesheet" href="testing-gr-table-tweaks.css" />
 
-<p>Four available tables:</p>
-
+<div id="mainTablesAndSels">
+<!-- radio button selectors -->
 <input id="theoryPropSel" type="radio" name="tabSelect" checked>
 <label for="theoryPropSel" class="tabSelectLabel">Theory properties</label>
 <input id="BHPropSel" type="radio" name="tabSelect">
@@ -25,12 +25,14 @@ scripts: |
 <label for="NSPropSel" class="tabSelectLabel">Neutron stars</label>
 <input id="consSel" type="radio" name="tabSelect">
 <label for="consSel" class="tabSelectLabel">Constraints</label>
-
+<!-- main tables -->
 <div id="theoryPropGrid" class="defaultHidden"></div>
 <div id="BHPropGrid" class="defaultHidden"></div>
 <div id="NSPropGrid" class="defaultHidden"></div>
 <div id="ConsGrid" class="defaultHidden"></div>
+</div>
 
-<h2>(Selected) References</h2>
+
+# (Selected) References
 
 <div id="bibGrid"></div>
