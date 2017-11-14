@@ -98,7 +98,9 @@ $(function() {
       }
       innerHTML += '</label></div>';
 
-      var el = $(innerHTML)
+      var el =
+          haveBibs ? // Yes, have biblios, make clickable:
+          $(innerHTML)
           .find("input")
           .on("change", function() {
             if ( $(this).is(":checked") ) {
@@ -108,7 +110,9 @@ $(function() {
             };
             $("#bibGrid").jsGrid("loadData", selectedBibs);
           })
-          .end();
+          .end()
+          : // No, don't have biblios, not clickable
+          $(innerHTML);
 
       return el;
     },
@@ -286,7 +290,9 @@ $(function() {
 
     return itemText;
   };
-  
+
+  // Load the biblio table
+
   $.ajax({
     type: "GET",
     url: bibURL,
@@ -297,7 +303,7 @@ $(function() {
 
     $("#bibGrid").jsGrid({
       height: "18em",
-      width: "100%",
+      width: "99%",
 
       sorting: true,
       paging: false,

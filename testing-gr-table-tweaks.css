@@ -41,7 +41,10 @@ table {
 .ref-cell { padding: 0; }
 
 .ref-cell input { display: none; }
-.ref-cell input + label:hover {
+.ref-cell input[disabled] + label:hover {
+    cursor:default;
+}
+.ref-cell input:not([disabled]) + label:hover {
     background: #c4e2ff;
     border-color: #c4e2ff;
     cursor:pointer;
