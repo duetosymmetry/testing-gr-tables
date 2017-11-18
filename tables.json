@@ -24,7 +24,7 @@
       "refs": [] },
     "PSRConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Freire:2012mg"] },
     "GWConstr": {
       "val": "",
       "refs": [] },
