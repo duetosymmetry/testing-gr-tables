@@ -254,7 +254,12 @@ $(function() {
 
       fields: [
         { name: "theory", type: "text", title: "Theory", width: "15em" },
-        { name: "weakFieldConstr", type: "textBib", title: "Weak-field constraints", width: "auto" },
+        { name: "weakFieldConstr", type: "textBib", title: "Weak-field", width: "5em" },
+        { name: "SSConstr", type: "textBib", title: "Solar system", width: "5em" },
+        { name: "PSRConstr", type: "textBib", title: "Pulsar", width: "5em" },
+        { name: "CosmoConstr", type: "textBib", title: "Cosmo", tooltip: "Cosmological", width: "5em" },
+        { name: "GWConstr", type: "textBib", title: "GW", tooltip: "Gravitational-wave", width: "5em" },
+        { name: "otherConstr", type: "textBib", title: "Other", width: "auto" },
       ],
     });
 
