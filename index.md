@@ -25,6 +25,14 @@ both human- and computer-readable format, as a dynamic web page.
 
 # Tables
 
+Click on any cell with a [#&nbsp;<i class="fa fa-files-o"
+aria-hidden="true"></i>] symbol
+to show those references in the
+[references table](#selected-references) below.
+Hover over any <a class="tooltip" title="Extra info!">underlined
+item</a> to see more information.
+{:.archive__item-title}
+
 <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.css" />
 <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid-theme.min.css" />
 

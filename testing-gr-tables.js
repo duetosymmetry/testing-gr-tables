@@ -156,7 +156,7 @@ $(function() {
 
       fields: [
         { name: "theory", type: "text", title: "Theory", width: "15em" },
-        { name: "scalar", type: "checkbox", title: "S", width: "2em" },
+        { name: "scalar", type: "checkbox", title: "S", tooltip: "Scalar", width: "2em" },
         { name: "pseudoscalar", type: "checkbox", title: "P", width: "2em" },
         { name: "vector", type: "checkbox", title: "V", width: "2em" },
         { name: "tensor", type: "checkbox", title: "T", width: "2em" },
