@@ -15,16 +15,16 @@
       "refs": ["Salgado:2008xh"] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["Bertotti:2003rm","Alsing:2011er","Freire:2012mg"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Bertotti:2003rm"] },
     "CosmoConstr": {
       "val": "",
       "refs": [] },
     "PSRConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Alsing:2011er","Freire:2012mg"] },
     "GWConstr": {
       "val": "",
       "refs": [] },
@@ -86,7 +86,7 @@
       "refs": ["Choquet-Bruhat:2009xil"] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["Damour:1992we"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -95,7 +95,7 @@
       "refs": [] },
     "PSRConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Damour:1992we"] },
     "GWConstr": {
       "val": "",
       "refs": [] },
@@ -157,10 +157,10 @@
       "refs": ["LanahanTremblay:2007sg","Paschalidis:2011ww"] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["Berry:2011pb"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Berry:2011pb"] },
     "CosmoConstr": {
       "val": "",
       "refs": [] },
@@ -169,7 +169,7 @@
       "refs": [] },
     "GWConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Berry:2011pb"] },
     "otherConstr": {
       "val": "",
       "refs": [] },
@@ -228,7 +228,7 @@
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["Yagi:2012gp"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -243,7 +243,7 @@
       "refs": [] },
     "otherConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Yagi:2012gp"] },
     "BHNR": {
       "val": "",
       "refs": ["Mignemi:1992nt","Kanti:1995vq","Yunes:2011we"] },
@@ -299,10 +299,10 @@
       "refs": ["Delsate:2014hba"] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["AliHaimoud:2011fw"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["AliHaimoud:2011fw"] },
     "CosmoConstr": {
       "val": "",
       "refs": [] },
@@ -512,22 +512,22 @@
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["Foster:2005dk","Jacobson:2008aj","Yagi:2013qpa","Yagi:2013ava"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Foster:2005dk","Jacobson:2008aj"] },
     "CosmoConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Foster:2005dk","Jacobson:2008aj"] },
     "PSRConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Jacobson:2008aj","Yagi:2013qpa","Yagi:2013ava"] },
     "GWConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Jacobson:2008aj"] },
     "otherConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Foster:2005dk","Jacobson:2008aj"] },
     "BHNR": {
       "val": "NR ",
       "refs": ["Eling:2006ec","Barausse:2011pu","Barausse:2013nwa"] },
@@ -583,7 +583,7 @@
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["Blas:2010hb","Blas:2011zd","Yagi:2013qpa","Yagi:2013ava"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -592,13 +592,13 @@
       "refs": [] },
     "PSRConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Yagi:2013qpa","Yagi:2013ava"] },
     "GWConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Blas:2011zd"] },
     "otherConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Blas:2010hb"] },
     "BHNR": {
       "val": "",
       "refs": ["Barausse:2011pu","Wang:2012nv","Barausse:2012qh","Barausse:2013nwa"] },
@@ -654,10 +654,10 @@
       "refs": [] },
     "weakFieldConstr": {
       "val": "none",
-      "refs": ["Coelho:2013dya"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Coelho:2013dya"] },
     "CosmoConstr": {
       "val": "",
       "refs": [] },
@@ -725,19 +725,19 @@
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["deRham:2014zqa"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2014zqa"] },
     "CosmoConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2014zqa"] },
     "PSRConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2014zqa"] },
     "GWConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2014zqa"] },
     "otherConstr": {
       "val": "",
       "refs": [] },
@@ -796,19 +796,19 @@
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["deRham:2012fw","deRham:2014zqa"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2014zqa"] },
     "CosmoConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2014zqa"] },
     "PSRConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2012fw","deRham:2014zqa"] },
     "GWConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["deRham:2014zqa"] },
     "otherConstr": {
       "val": "",
       "refs": [] },
@@ -1009,7 +1009,7 @@
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["Freire:2012mg"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -1018,7 +1018,7 @@
       "refs": [] },
     "PSRConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Freire:2012mg"] },
     "GWConstr": {
       "val": "",
       "refs": [] },
@@ -1151,10 +1151,10 @@
       "refs": [] },
     "weakFieldConstr": {
       "val": "",
-      "refs": ["Iorio:2012cm"] },
+      "refs": [] },
     "SSConstr": {
       "val": "",
-      "refs": [] },
+      "refs": ["Iorio:2012cm"] },
     "CosmoConstr": {
       "val": "",
       "refs": [] },
