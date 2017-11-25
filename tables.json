@@ -13,9 +13,6 @@
     "wellPosed": {
       "val": "✓",
       "refs": ["Salgado:2008xh"] },
-    "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": ["Bertotti:2003rm"] },
@@ -84,9 +81,6 @@
     "wellPosed": {
       "val": "✓",
       "refs": ["Choquet-Bruhat:2009xil"] },
-    "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -155,9 +149,6 @@
     "wellPosed": {
       "val": "✓",
       "refs": ["LanahanTremblay:2007sg","Paschalidis:2011ww"] },
-    "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": ["Berry:2011pb"] },
@@ -225,9 +216,6 @@
     "weakEP": true,
     "wellPosed": {
       "val": "✓?",
-      "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
       "refs": [] },
     "SSConstr": {
       "val": "",
@@ -297,9 +285,6 @@
     "wellPosed": {
       "val": "✗✓?",
       "refs": ["Delsate:2014hba"] },
-    "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": ["AliHaimoud:2011fw"] },
@@ -367,9 +352,6 @@
     "weakEP": true,
     "wellPosed": {
       "val": "?",
-      "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
       "refs": [] },
     "SSConstr": {
       "val": "",
@@ -439,9 +421,6 @@
     "wellPosed": {
       "val": "✓?",
       "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -509,9 +488,6 @@
     "weakEP": true,
     "wellPosed": {
       "val": "✓?",
-      "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
       "refs": [] },
     "SSConstr": {
       "val": "",
@@ -581,9 +557,6 @@
     "wellPosed": {
       "val": "✓?",
       "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -651,9 +624,6 @@
     "weakEP": true,
     "wellPosed": {
       "val": "?",
-      "refs": [] },
-    "weakFieldConstr": {
-      "val": "none",
       "refs": [] },
     "SSConstr": {
       "val": "none",
@@ -723,9 +693,6 @@
     "wellPosed": {
       "val": "?",
       "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": ["deRham:2014zqa"] },
@@ -793,9 +760,6 @@
     "weakEP": true,
     "wellPosed": {
       "val": "✓?",
-      "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
       "refs": [] },
     "SSConstr": {
       "val": "",
@@ -865,9 +829,6 @@
     "wellPosed": {
       "val": "✓",
       "refs": [] },
-    "weakFieldConstr": {
-      "val": "none",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -935,9 +896,6 @@
     "weakEP": true,
     "wellPosed": {
       "val": "?",
-      "refs": [] },
-    "weakFieldConstr": {
-      "val": "none",
       "refs": [] },
     "SSConstr": {
       "val": "",
@@ -1007,9 +965,6 @@
     "wellPosed": {
       "val": "?",
       "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -1078,9 +1033,6 @@
     "wellPosed": {
       "val": "?",
       "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
-      "refs": [] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -1148,9 +1100,6 @@
     "weakEP": true,
     "wellPosed": {
       "val": "?",
-      "refs": [] },
-    "weakFieldConstr": {
-      "val": "",
       "refs": [] },
     "SSConstr": {
       "val": "",
