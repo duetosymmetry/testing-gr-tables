@@ -44836,5 +44836,38 @@
    "primaryClass": "hep-th",
    "SLACcitation": "%%CITATION = ARXIV:1311.3189;%%"
   }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Papallo:2017qvl",
+  "Fields": {
+   "author": "Papallo, Giuseppe and Reall, Harvey S.",
+   "title": "On the local well-posedness of Lovelock and Horndeski theories",
+   "journal": "Phys. Rev.",
+   "volume": "D96",
+   "year": "2017",
+   "number": "4",
+   "pages": "044019",
+   "doi": "10.1103/PhysRevD.96.044019",
+   "eprint": "1705.04370",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1705.04370;%%"
+  }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Papallo:2017ddx",
+  "Fields": {
+   "author": "Papallo, Giuseppe",
+   "title": "On the hyperbolicity of the most general Horndeski theory",
+   "year": "2017",
+   "eprint": "1710.10155",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1710.10155;%%"
+  }
  }
 ]

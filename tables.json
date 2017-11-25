@@ -215,8 +215,8 @@
     "linearT": true,
     "weakEP": true,
     "wellPosed": {
-      "val": "✓?",
-      "refs": [] },
+      "val": "?",
+      "refs": ["Papallo:2017qvl","Papallo:2017ddx"] },
     "SSConstr": {
       "val": "",
       "refs": [] },
@@ -283,7 +283,7 @@
     "linearT": true,
     "weakEP": true,
     "wellPosed": {
-      "val": "✗✓?",
+      "val": "✗?",
       "refs": ["Delsate:2014hba"] },
     "SSConstr": {
       "val": "",
@@ -419,8 +419,8 @@
     "linearT": true,
     "weakEP": true,
     "wellPosed": {
-      "val": "✓?",
-      "refs": [] },
+      "val": "?",
+      "refs": ["Papallo:2017qvl","Papallo:2017ddx"] },
     "SSConstr": {
       "val": "",
       "refs": [] },
