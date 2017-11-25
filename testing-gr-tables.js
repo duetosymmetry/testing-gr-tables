@@ -165,7 +165,9 @@ $(function() {
         { name: "masslessGraviton", type: "checkbox", title: "Massless graviton", width: "5.5em" },
         { name: "localLorentz", type: "checkbox", title: "Lorentz symmetry", width: "5.5em" },
         { name: "linearT", type: "checkbox", title: "Linear \\(T_{\\mu\\nu}\\)", width: "4em" },
-        { name: "wellPosed", type: "textBib", title: "Well posed", width: "5em" },
+        { name: "wellPosed", type: "textBib", title: "\"Exactly\" well-posed",
+          tooltip: "Most theories close to GR are well-posed if treated as effective field theories. This column is for if you treat a theory as \"exact.\"",
+          width: "auto" },
       ],
     });
 
