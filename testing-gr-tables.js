@@ -32,14 +32,15 @@ $(function() {
         .split(" and ")
         .map(str =>  str.split(",", 1)[0]);
 
-    switch (auths.length) {
-    case 1:
+    if (auths.length == 1) {
       return auths[0];
-    case 2:
-      return auths.join(' and ');
-    default:
+    } else if ((auths.length > 2) ||
+               ((auths.length == 2) && (auths[1] == "others"))) {
       return auths[0] + ' et al.';
+    } else {
+      return auths.join(' and ');
     }
+
   }
 
   var processBib2JSONEntry = function(entry) {
