@@ -32,6 +32,7 @@ input[name='tabSelect']:checked + label.tabSelectLabel {
 a.tooltip {
     color: unset;
     border-bottom: 1px dotted;
+    cursor: help;
 }
 
 input[disabled],select[disabled],textarea[disabled],input[readonly],select[readonly],textarea[readonly] {
