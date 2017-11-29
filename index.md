@@ -49,10 +49,10 @@ item</a> to see more information.
 <input id="consSel" type="radio" name="tabSelect">
 <label for="consSel" class="tabSelectLabel">Constraints</label>
 <!-- main tables -->
-<div id="theoryPropGrid" class="defaultHidden"></div>
-<div id="BHPropGrid" class="defaultHidden"></div>
-<div id="NSPropGrid" class="defaultHidden"></div>
-<div id="ConsGrid" class="defaultHidden"></div>
+<div id="theoryPropGrid" class="defaultShown"></div>
+<div id="BHPropGrid" class="defaultShown"></div>
+<div id="NSPropGrid" class="defaultShown"></div>
+<div id="ConsGrid" class="defaultShown"></div>
 </div>
 
 

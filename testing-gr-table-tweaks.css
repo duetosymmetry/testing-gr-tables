@@ -10,6 +10,10 @@
   display: block;
 }
 
+.defaultShown {
+  display: block;
+}
+
 #bibGrid a:hover {
   text-decoration: underline;
 }

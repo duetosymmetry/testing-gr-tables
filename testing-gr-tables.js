@@ -351,4 +351,9 @@ $(function() {
     console.log( "Request Failed: " + err );
   });
 
+  // Enqueue some class manipulation for when MathJax has finished typesetting
+  MathJax.Hub.Queue(function () {
+    $(".defaultShown").removeClass("defaultShown").addClass("defaultHidden");
+  });
+
 });
