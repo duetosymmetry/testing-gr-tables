@@ -2858,5 +2858,23 @@
    "primaryClass": "gr-qc",
    "SLACcitation": "%%CITATION = ARXIV:1710.10155;%%"
   }
+ },
+ {
+  "ObjectType": "entry",
+  "EntryType": "article",
+  "EntryKey": "Berti:2015itd",
+  "Fields": {
+   "author": "Berti, Emanuele and others",
+   "title": "Testing General Relativity with Present and Future Astrophysical Observations",
+   "journal": "Class. Quant. Grav.",
+   "volume": "32",
+   "year": "2015",
+   "pages": "243001",
+   "doi": "10.1088/0264-9381/32/24/243001",
+   "eprint": "1501.07274",
+   "archivePrefix": "arXiv",
+   "primaryClass": "gr-qc",
+   "SLACcitation": "%%CITATION = ARXIV:1501.07274;%%"
+  }
  }
 ]

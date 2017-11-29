@@ -384,8 +384,8 @@
       "val": "",
       "refs": ["Pani:2011gy"] },
     "BHquad": {
-      "val": "Eq.quadrupole_quadratic TODO",
-      "refs": [] },
+      "val": "",
+      "refs": ["Berti:2015itd"] },
     "NSNR": {
       "val": "",
       "refs": [] },
