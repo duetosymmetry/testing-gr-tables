@@ -23,7 +23,7 @@ This project is trying to keep them up to date, in a more uniform and
 both human- and computer-readable format, as a dynamic web page.
 {:.archive__item-title}
 
-# Tables
+## Tables
 
 Click on any cell with a [#&nbsp;<i class="fa fa-files-o"
 aria-hidden="true"></i>] symbol
@@ -56,11 +56,11 @@ item</a> to see more information.
 </div>
 
 
-# (Selected) References
+## (Selected) References
 
 <div id="bibGrid"></div>
 
-# Sources/How to contribute
+## Sources/​How to contribute/​Credits
 
 The
 [git repo for this project is here](https://github.com/duetosymmetry/testing-gr-tables).
